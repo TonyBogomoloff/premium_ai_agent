@@ -1,0 +1,7 @@
+tunnel: 7dccbfaa-5359-43e8-8ba8-c31fa7b8f476
+credentials-file: /home/tony/.cloudflared/7dccbfaa-5359-43e8-8ba8-c31fa7b8f476.json
+metrics: 127.0.0.1:20243
+ingress:
+  - hostname: premium-emoji.korobkoff.com
+    service: http://127.0.0.1:8787
+  - service: http_status:404

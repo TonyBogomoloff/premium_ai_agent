@@ -1,0 +1,2984 @@
+{
+  "checkedAt": "2026-10-21T15:31:02.682010+00:00",
+  "method": "Telegram Bot API getStickerSet; regular sets with premium_animation only",
+  "candidatesChecked": 323,
+  "selectedSets": 236,
+  "uniqueStickers": 6080,
+  "uniquePremiumStickers": 581,
+  "totalStickerEntries": 6080,
+  "totalPremiumEntries": 581,
+  "coverage": "All Premium-positive sets found in the official PremiumStickers index, stickersnew public links and TrendingStickers archive back to June 2022; not an exhaustive Telegram-wide listing.",
+  "packs": [
+    {
+      "name": "HotCherry",
+      "title": "Hot Cherry",
+      "total": 34,
+      "premium": 3,
+      "link": "https://t.me/addstickers/HotCherry",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2087",
+        "https://t.me/TrendingStickers/2088",
+        "https://t.me/TrendingStickers/2089"
+      ]
+    },
+    {
+      "name": "UtyaD",
+      "title": "Utya",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/UtyaD",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2091",
+        "https://t.me/TrendingStickers/2872"
+      ]
+    },
+    {
+      "name": "KangarooFighter",
+      "title": "Outback Jack",
+      "total": 27,
+      "premium": 1,
+      "link": "https://t.me/addstickers/KangarooFighter",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2090"
+      ]
+    },
+    {
+      "name": "Gadgets",
+      "title": "90s gadgets",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Gadgets",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3180"
+      ]
+    },
+    {
+      "name": "CatInHat",
+      "title": "A Cat in a Hat",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/CatInHat",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3252"
+      ]
+    },
+    {
+      "name": "WolfAlpha",
+      "title": "Alpha Wolf",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/WolfAlpha",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2417",
+        "https://t.me/TrendingStickers/2442",
+        "https://t.me/TrendingStickers/2457"
+      ]
+    },
+    {
+      "name": "AmanitaPhalloides",
+      "title": "Amanita",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/AmanitaPhalloides",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2485",
+        "https://t.me/TrendingStickers/2770",
+        "https://t.me/TrendingStickers/2891",
+        "https://t.me/TrendingStickers/2900"
+      ]
+    },
+    {
+      "name": "Ant_Eater",
+      "title": "Ant-Eater Peter",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Ant_Eater",
+      "sources": [
+        "https://t.me/TrendingStickers/3088"
+      ]
+    },
+    {
+      "name": "ArcticFox",
+      "title": "Arctic Fox",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/ArcticFox",
+      "sources": [
+        "https://t.me/TrendingStickers/2645",
+        "https://t.me/s/mastelegram/6060"
+      ]
+    },
+    {
+      "name": "Spaceman",
+      "title": "Astro Nate",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Spaceman",
+      "sources": [
+        "https://t.me/TrendingStickers/3106"
+      ]
+    },
+    {
+      "name": "NeverOld",
+      "title": "Axolotl",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/NeverOld",
+      "sources": [
+        "https://t.me/TrendingStickers/2721",
+        "https://t.me/TrendingStickers/2998",
+        "https://t.me/TrendingStickers/3006"
+      ]
+    },
+    {
+      "name": "BadCupid",
+      "title": "Bad Cupid",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/BadCupid",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2533",
+        "https://t.me/TrendingStickers/2599",
+        "https://t.me/TrendingStickers/2695"
+      ]
+    },
+    {
+      "name": "Banana",
+      "title": "Banana",
+      "total": 35,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Banana",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2483",
+        "https://t.me/TrendingStickers/2525",
+        "https://t.me/TrendingStickers/2593"
+      ]
+    },
+    {
+      "name": "BananaAnimated",
+      "title": "Banana",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BananaAnimated",
+      "sources": [
+        "https://t.me/TrendingStickers/2598",
+        "https://t.me/TrendingStickers/2600"
+      ]
+    },
+    {
+      "name": "BananaFun",
+      "title": "Bananza",
+      "total": 23,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BananaFun",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3242",
+        "https://t.me/TrendingStickers/3244"
+      ]
+    },
+    {
+      "name": "Baphometh",
+      "title": "Baphometh",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Baphometh",
+      "sources": [
+        "https://t.me/TrendingStickers/2917"
+      ]
+    },
+    {
+      "name": "Batoshik",
+      "title": "Batoshik",
+      "total": 24,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Batoshik",
+      "sources": [
+        "https://t.me/TrendingStickers/2672",
+        "https://t.me/TrendingStickers/2673",
+        "https://t.me/TrendingStickers/3099"
+      ]
+    },
+    {
+      "name": "BeefyEagle",
+      "title": "Beefy Eagle",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BeefyEagle",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2332",
+        "https://t.me/TrendingStickers/3040",
+        "https://t.me/TrendingStickers/3094"
+      ]
+    },
+    {
+      "name": "BettPage",
+      "title": "Bettie_Page",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BettPage",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2906",
+        "https://t.me/TrendingStickers/3227"
+      ]
+    },
+    {
+      "name": "BirdOfParadise",
+      "title": "Bird of Paradise",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BirdOfParadise",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2431",
+        "https://t.me/TrendingStickers/2432"
+      ]
+    },
+    {
+      "name": "BobJellyfish",
+      "title": "Bob the Jellyfish",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/BobJellyfish",
+      "sources": [
+        "https://t.me/TrendingStickers/2854",
+        "https://t.me/TrendingStickers/2857",
+        "https://t.me/TrendingStickers/2897"
+      ]
+    },
+    {
+      "name": "Borzoi",
+      "title": "Borzoi",
+      "total": 38,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Borzoi",
+      "sources": [
+        "https://t.me/Stickersnew/827",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2381",
+        "https://t.me/TrendingStickers/2590",
+        "https://t.me/TrendingStickers/2657",
+        "https://t.me/TrendingStickers/2665"
+      ]
+    },
+    {
+      "name": "BoysClub",
+      "title": "Boy's Club",
+      "total": 30,
+      "premium": 4,
+      "link": "https://t.me/addstickers/BoysClub",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2422",
+        "https://t.me/TrendingStickers/2467",
+        "https://t.me/TrendingStickers/2698",
+        "https://t.me/TrendingStickers/2710"
+      ]
+    },
+    {
+      "name": "BT21_BTS",
+      "title": "BT21",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BT21_BTS",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3162",
+        "https://t.me/TrendingStickers/3219"
+      ]
+    },
+    {
+      "name": "BuckyBecky",
+      "title": "Bucky & Becky",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/BuckyBecky",
+      "sources": [
+        "https://t.me/TrendingStickers/2692",
+        "https://t.me/TrendingStickers/3097"
+      ]
+    },
+    {
+      "name": "Buddy_Bear",
+      "title": "Buddy Bear",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Buddy_Bear",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2416",
+        "https://t.me/TrendingStickers/2520",
+        "https://t.me/TrendingStickers/2594"
+      ]
+    },
+    {
+      "name": "BumbIebee",
+      "title": "Bumblebee",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/BumbIebee",
+      "sources": [
+        "https://t.me/TrendingStickers/2904",
+        "https://t.me/TrendingStickers/3024",
+        "https://t.me/TrendingStickers/3124"
+      ]
+    },
+    {
+      "name": "AsianBunny",
+      "title": "Bunny",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/AsianBunny",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2551",
+        "https://t.me/TrendingStickers/2887",
+        "https://t.me/TrendingStickers/2911"
+      ]
+    },
+    {
+      "name": "CactusAndBalloon",
+      "title": "Cactus And Balloon",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/CactusAndBalloon",
+      "sources": [
+        "https://t.me/TrendingStickers/2752",
+        "https://t.me/TrendingStickers/2753"
+      ]
+    },
+    {
+      "name": "CaptainWhale",
+      "title": "Captain Whale",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/CaptainWhale",
+      "sources": [
+        "https://t.me/TrendingStickers/2863",
+        "https://t.me/TrendingStickers/2866",
+        "https://t.me/TrendingStickers/2913"
+      ]
+    },
+    {
+      "name": "ValentineCat",
+      "title": "Cat Valentine",
+      "total": 18,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ValentineCat",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2115",
+        "https://t.me/TrendingStickers/2116",
+        "https://t.me/TrendingStickers/2117"
+      ]
+    },
+    {
+      "name": "Cat2O",
+      "title": "Cat2O",
+      "total": 30,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Cat2O",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2914",
+        "https://t.me/TrendingStickers/3030",
+        "https://t.me/TrendingStickers/3195"
+      ]
+    },
+    {
+      "name": "MrCat",
+      "title": "Cathbert",
+      "total": 26,
+      "premium": 5,
+      "link": "https://t.me/addstickers/MrCat",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2133",
+        "https://t.me/TrendingStickers/2134",
+        "https://t.me/TrendingStickers/2135",
+        "https://t.me/TrendingStickers/2436",
+        "https://t.me/TrendingStickers/2448"
+      ]
+    },
+    {
+      "name": "NyaChan",
+      "title": "Chan",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/NyaChan",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3052",
+        "https://t.me/TrendingStickers/3253"
+      ]
+    },
+    {
+      "name": "ChappyBunny",
+      "title": "Chappy Bunny",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ChappyBunny",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2492",
+        "https://t.me/TrendingStickers/2588",
+        "https://t.me/TrendingStickers/2662",
+        "https://t.me/TrendingStickers/2700"
+      ]
+    },
+    {
+      "name": "Cheese",
+      "title": "Cheese",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Cheese",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3304"
+      ]
+    },
+    {
+      "name": "ChibiChan",
+      "title": "Chibi-Chan",
+      "total": 38,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ChibiChan",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2476",
+        "https://t.me/TrendingStickers/2968",
+        "https://t.me/TrendingStickers/3051",
+        "https://t.me/TrendingStickers/3054"
+      ]
+    },
+    {
+      "name": "CatCatCat",
+      "title": "Chilled Cat",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/CatCatCat",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2198",
+        "https://t.me/TrendingStickers/2199",
+        "https://t.me/TrendingStickers/2200",
+        "https://t.me/TrendingStickers/2201"
+      ]
+    },
+    {
+      "name": "ChineseDragon",
+      "title": "Chinese Dragon",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ChineseDragon",
+      "sources": [
+        "https://t.me/TrendingStickers/2653",
+        "https://t.me/TrendingStickers/2667",
+        "https://t.me/TrendingStickers/2677"
+      ]
+    },
+    {
+      "name": "JingleBellElf",
+      "title": "Christmas Elf",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/JingleBellElf",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2624"
+      ]
+    },
+    {
+      "name": "ChristmasTiger",
+      "title": "Christmas Tiger",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ChristmasTiger",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2616",
+        "https://t.me/TrendingStickers/2643",
+        "https://t.me/TrendingStickers/2687"
+      ]
+    },
+    {
+      "name": "Memes",
+      "title": "Classic Memes",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Memes",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2493"
+      ]
+    },
+    {
+      "name": "CloudiaSheep",
+      "title": "Cloudia",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/CloudiaSheep",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2094"
+      ]
+    },
+    {
+      "name": "ColoredCats",
+      "title": "Colored Cats",
+      "total": 30,
+      "premium": 5,
+      "link": "https://t.me/addstickers/ColoredCats",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2124",
+        "https://t.me/TrendingStickers/2125",
+        "https://t.me/TrendingStickers/2126",
+        "https://t.me/TrendingStickers/2127",
+        "https://t.me/TrendingStickers/2128"
+      ]
+    },
+    {
+      "name": "ColorfulMessages",
+      "title": "Colorful Messages",
+      "total": 37,
+      "premium": 2,
+      "link": "https://t.me/addstickers/ColorfulMessages",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2411",
+        "https://t.me/TrendingStickers/2637"
+      ]
+    },
+    {
+      "name": "CookieAndMilky",
+      "title": "Cookie and Milky",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/CookieAndMilky",
+      "sources": [
+        "https://t.me/Stickersnew/807",
+        "https://t.me/TrendingStickers/2080",
+        "https://t.me/TrendingStickers/3020"
+      ]
+    },
+    {
+      "name": "coolguy",
+      "title": "COOL GUY",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/coolguy",
+      "sources": [
+        "https://t.me/TrendingStickers/2661",
+        "https://t.me/TrendingStickers/2953",
+        "https://t.me/TrendingStickers/3076"
+      ]
+    },
+    {
+      "name": "LifeCorgi",
+      "title": "Corgi Life",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LifeCorgi",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2308",
+        "https://t.me/TrendingStickers/2944",
+        "https://t.me/TrendingStickers/2947",
+        "https://t.me/TrendingStickers/2967"
+      ]
+    },
+    {
+      "name": "Cowboy",
+      "title": "Cowboy",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Cowboy",
+      "sources": [
+        "https://t.me/TrendingStickers/2969",
+        "https://t.me/TrendingStickers/3016"
+      ]
+    },
+    {
+      "name": "CrazyFlower",
+      "title": "Crazy Daisy",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/CrazyFlower",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2456",
+        "https://t.me/TrendingStickers/2486",
+        "https://t.me/TrendingStickers/2518",
+        "https://t.me/TrendingStickers/2589"
+      ]
+    },
+    {
+      "name": "Gillman",
+      "title": "Creature",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Gillman",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2608"
+      ]
+    },
+    {
+      "name": "MrCroco",
+      "title": "Croco",
+      "total": 34,
+      "premium": 4,
+      "link": "https://t.me/addstickers/MrCroco",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2153",
+        "https://t.me/TrendingStickers/2154",
+        "https://t.me/TrendingStickers/2155",
+        "https://t.me/TrendingStickers/2156"
+      ]
+    },
+    {
+      "name": "AngryCrow",
+      "title": "Crow",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/AngryCrow",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2304",
+        "https://t.me/TrendingStickers/3043",
+        "https://t.me/TrendingStickers/3045",
+        "https://t.me/TrendingStickers/3046"
+      ]
+    },
+    {
+      "name": "FreakyPigeon",
+      "title": "Crusty",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/FreakyPigeon",
+      "sources": [
+        "https://t.me/TrendingStickers/3014",
+        "https://t.me/TrendingStickers/3018"
+      ]
+    },
+    {
+      "name": "Crocosaurus",
+      "title": "Cubigator",
+      "total": 30,
+      "premium": 5,
+      "link": "https://t.me/addstickers/Crocosaurus",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2103",
+        "https://t.me/TrendingStickers/2104",
+        "https://t.me/TrendingStickers/2105",
+        "https://t.me/TrendingStickers/2106",
+        "https://t.me/TrendingStickers/2107"
+      ]
+    },
+    {
+      "name": "CupidKitty",
+      "title": "Cupid Kitty",
+      "total": 25,
+      "premium": 5,
+      "link": "https://t.me/addstickers/CupidKitty",
+      "sources": [
+        "https://t.me/TrendingStickers/2709",
+        "https://t.me/TrendingStickers/2711",
+        "https://t.me/TrendingStickers/2979",
+        "https://t.me/TrendingStickers/2981",
+        "https://t.me/TrendingStickers/3065"
+      ]
+    },
+    {
+      "name": "CuteNurse",
+      "title": "Cute Nurse",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/CuteNurse",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2595",
+        "https://t.me/TrendingStickers/2601"
+      ]
+    },
+    {
+      "name": "CutieMadeline",
+      "title": "Cutie Madeline",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/CutieMadeline",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2110",
+        "https://t.me/TrendingStickers/2111",
+        "https://t.me/TrendingStickers/2112"
+      ]
+    },
+    {
+      "name": "Cyclops",
+      "title": "Cyclops Argu",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Cyclops",
+      "sources": [
+        "https://t.me/TrendingStickers/3072",
+        "https://t.me/TrendingStickers/3092"
+      ]
+    },
+    {
+      "name": "knightbraveheart",
+      "title": "Date Knight",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/knightbraveheart",
+      "sources": [
+        "https://t.me/TrendingStickers/2745",
+        "https://t.me/TrendingStickers/2818"
+      ]
+    },
+    {
+      "name": "DeadlyPack",
+      "title": "Dead Death",
+      "total": 24,
+      "premium": 3,
+      "link": "https://t.me/addstickers/DeadlyPack",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2489",
+        "https://t.me/TrendingStickers/2515",
+        "https://t.me/TrendingStickers/2516"
+      ]
+    },
+    {
+      "name": "DeathNote",
+      "title": "Death Note",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/DeathNote",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3225"
+      ]
+    },
+    {
+      "name": "DebraZebra",
+      "title": "Debra Zebra",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/DebraZebra",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2334",
+        "https://t.me/TrendingStickers/2907"
+      ]
+    },
+    {
+      "name": "Developer",
+      "title": "Dev",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Developer",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3305"
+      ]
+    },
+    {
+      "name": "DinDino",
+      "title": "Din the Dino",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/DinDino",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2185",
+        "https://t.me/TrendingStickers/2186",
+        "https://t.me/TrendingStickers/2187"
+      ]
+    },
+    {
+      "name": "DisgruntledToad",
+      "title": "Disgruntled Toad",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/DisgruntledToad",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2626",
+        "https://t.me/TrendingStickers/2666",
+        "https://t.me/TrendingStickers/2989"
+      ]
+    },
+    {
+      "name": "DolphinDolph",
+      "title": "Dolph",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/DolphinDolph",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2447",
+        "https://t.me/TrendingStickers/2459"
+      ]
+    },
+    {
+      "name": "DolphinJumpy",
+      "title": "Dolphin Jumpy",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/DolphinJumpy",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2302",
+        "https://t.me/TrendingStickers/2776",
+        "https://t.me/TrendingStickers/2783",
+        "https://t.me/TrendingStickers/2803"
+      ]
+    },
+    {
+      "name": "Turtle",
+      "title": "Donnie Turtle",
+      "total": 32,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Turtle",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2306",
+        "https://t.me/TrendingStickers/2583",
+        "https://t.me/TrendingStickers/2808"
+      ]
+    },
+    {
+      "name": "DonutTheDog",
+      "title": "Donut",
+      "total": 31,
+      "premium": 3,
+      "link": "https://t.me/addstickers/DonutTheDog",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2114",
+        "https://t.me/TrendingStickers/2202",
+        "https://t.me/TrendingStickers/2203"
+      ]
+    },
+    {
+      "name": "UtyaDuck",
+      "title": "Duck",
+      "total": 40,
+      "premium": 4,
+      "link": "https://t.me/addstickers/UtyaDuck",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2143",
+        "https://t.me/TrendingStickers/2144",
+        "https://t.me/TrendingStickers/2145",
+        "https://t.me/TrendingStickers/2146"
+      ]
+    },
+    {
+      "name": "WhiteRhino",
+      "title": "Dwight Rhino",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/WhiteRhino",
+      "sources": [
+        "https://t.me/TrendingStickers/3026",
+        "https://t.me/TrendingStickers/3089"
+      ]
+    },
+    {
+      "name": "EggYolk",
+      "title": "Egg Yolk",
+      "total": 24,
+      "premium": 3,
+      "link": "https://t.me/addstickers/EggYolk",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2433",
+        "https://t.me/TrendingStickers/2460",
+        "https://t.me/TrendingStickers/3229"
+      ]
+    },
+    {
+      "name": "JustElmo",
+      "title": "Elmo",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/JustElmo",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3057",
+        "https://t.me/TrendingStickers/3074",
+        "https://t.me/TrendingStickers/3339"
+      ]
+    },
+    {
+      "name": "FangBat",
+      "title": "Fang the Bat",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/FangBat",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2558"
+      ]
+    },
+    {
+      "name": "TrickyFox",
+      "title": "Feisty Fox",
+      "total": 19,
+      "premium": 4,
+      "link": "https://t.me/addstickers/TrickyFox",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2163",
+        "https://t.me/TrendingStickers/2164",
+        "https://t.me/TrendingStickers/2165",
+        "https://t.me/TrendingStickers/2166"
+      ]
+    },
+    {
+      "name": "FluffyLoafer",
+      "title": "Fluffy Loafer",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/FluffyLoafer",
+      "sources": [
+        "https://t.me/TrendingStickers/2903"
+      ]
+    },
+    {
+      "name": "FoxyComrade",
+      "title": "Foxy Comrade",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/FoxyComrade",
+      "sources": [
+        "https://t.me/TrendingStickers/2674",
+        "https://t.me/TrendingStickers/2682",
+        "https://t.me/TrendingStickers/2683"
+      ]
+    },
+    {
+      "name": "FrankensteinMonster",
+      "title": "Frankenstein",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/FrankensteinMonster",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3203",
+        "https://t.me/TrendingStickers/3206"
+      ]
+    },
+    {
+      "name": "FroggoInLove",
+      "title": "Froggo In Love",
+      "total": 27,
+      "premium": 1,
+      "link": "https://t.me/addstickers/FroggoInLove",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2101"
+      ]
+    },
+    {
+      "name": "Fromg",
+      "title": "Fromg",
+      "total": 38,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Fromg",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2497",
+        "https://t.me/TrendingStickers/2964",
+        "https://t.me/TrendingStickers/2965",
+        "https://t.me/TrendingStickers/2985"
+      ]
+    },
+    {
+      "name": "FunkyGoose",
+      "title": "Funky Goose",
+      "total": 41,
+      "premium": 6,
+      "link": "https://t.me/addstickers/FunkyGoose",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2157",
+        "https://t.me/TrendingStickers/2158",
+        "https://t.me/TrendingStickers/2159",
+        "https://t.me/TrendingStickers/2160",
+        "https://t.me/TrendingStickers/2161",
+        "https://t.me/TrendingStickers/2162"
+      ]
+    },
+    {
+      "name": "GamerGirL",
+      "title": "Gamer Girl",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/GamerGirL",
+      "sources": [
+        "https://t.me/TrendingStickers/2669",
+        "https://t.me/TrendingStickers/2671"
+      ]
+    },
+    {
+      "name": "GhostHamster",
+      "title": "Ghost Hamster",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/GhostHamster",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2860",
+        "https://t.me/TrendingStickers/3214"
+      ]
+    },
+    {
+      "name": "Butterfly",
+      "title": "Glow Bug",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Butterfly",
+      "sources": [
+        "https://t.me/TrendingStickers/2909"
+      ]
+    },
+    {
+      "name": "Godzi",
+      "title": "Godzi",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Godzi",
+      "sources": [
+        "https://t.me/TrendingStickers/2714",
+        "https://t.me/TrendingStickers/2812"
+      ]
+    },
+    {
+      "name": "SnappyCrab",
+      "title": "Grab this Crab",
+      "total": 27,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SnappyCrab",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2109"
+      ]
+    },
+    {
+      "name": "GreenBun",
+      "title": "Green Bun",
+      "total": 36,
+      "premium": 1,
+      "link": "https://t.me/addstickers/GreenBun",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2395",
+        "https://t.me/TrendingStickers/3228"
+      ]
+    },
+    {
+      "name": "GreenLezard",
+      "title": "Green Lezard",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/GreenLezard",
+      "sources": [
+        "https://t.me/TrendingStickers/2664",
+        "https://t.me/TrendingStickers/2675",
+        "https://t.me/TrendingStickers/2727"
+      ]
+    },
+    {
+      "name": "MrCaterpillar",
+      "title": "Greenleaf Greg",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrCaterpillar",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3010",
+        "https://t.me/TrendingStickers/3376"
+      ]
+    },
+    {
+      "name": "PigeonGulya",
+      "title": "Gulya",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/PigeonGulya",
+      "sources": [
+        "https://t.me/TrendingStickers/3055",
+        "https://t.me/TrendingStickers/3096",
+        "https://t.me/TrendingStickers/3104"
+      ]
+    },
+    {
+      "name": "HalloUtya",
+      "title": "Halloween Duck",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HalloUtya",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2561",
+        "https://t.me/TrendingStickers/2562"
+      ]
+    },
+    {
+      "name": "Hands4Friends",
+      "title": "Hands for Friends",
+      "total": 35,
+      "premium": 5,
+      "link": "https://t.me/addstickers/Hands4Friends",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2177",
+        "https://t.me/TrendingStickers/2178",
+        "https://t.me/TrendingStickers/2179",
+        "https://t.me/TrendingStickers/2180",
+        "https://t.me/TrendingStickers/2668"
+      ]
+    },
+    {
+      "name": "HaoPup",
+      "title": "Hao Pup",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/HaoPup",
+      "sources": [
+        "https://t.me/TrendingStickers/2961",
+        "https://t.me/TrendingStickers/3012",
+        "https://t.me/TrendingStickers/3061"
+      ]
+    },
+    {
+      "name": "HarryGorilla",
+      "title": "Harry Gorilla",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HarryGorilla",
+      "sources": [
+        "https://t.me/TrendingStickers/2888",
+        "https://t.me/TrendingStickers/3036"
+      ]
+    },
+    {
+      "name": "TheFrenchie",
+      "title": "Harry The Frenchie",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/TheFrenchie",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2298",
+        "https://t.me/TrendingStickers/2920"
+      ]
+    },
+    {
+      "name": "HeartyHearts",
+      "title": "Hearty Hearts",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HeartyHearts",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2092",
+        "https://t.me/TrendingStickers/2093"
+      ]
+    },
+    {
+      "name": "Hedgehog",
+      "title": "Hedgehog",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Hedgehog",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2970",
+        "https://t.me/TrendingStickers/3002"
+      ]
+    },
+    {
+      "name": "Hedgehoge",
+      "title": "Hedgehoge",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Hedgehoge",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2614"
+      ]
+    },
+    {
+      "name": "HeartBalloons",
+      "title": "Helium Hearts",
+      "total": 16,
+      "premium": 1,
+      "link": "https://t.me/addstickers/HeartBalloons",
+      "sources": [
+        "https://t.me/TrendingStickers/3086"
+      ]
+    },
+    {
+      "name": "HighFox",
+      "title": "High Fox",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/HighFox",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2181",
+        "https://t.me/TrendingStickers/2182",
+        "https://t.me/TrendingStickers/2183",
+        "https://t.me/TrendingStickers/2184"
+      ]
+    },
+    {
+      "name": "HomeElectronics",
+      "title": "Home Electronics",
+      "total": 29,
+      "premium": 4,
+      "link": "https://t.me/addstickers/HomeElectronics",
+      "sources": [
+        "https://t.me/TrendingStickers/2956",
+        "https://t.me/TrendingStickers/2978",
+        "https://t.me/TrendingStickers/3032",
+        "https://t.me/TrendingStickers/3080"
+      ]
+    },
+    {
+      "name": "HoneyBadgerrr",
+      "title": "Honey Badger",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HoneyBadgerrr",
+      "sources": [
+        "https://t.me/TrendingStickers/3190"
+      ]
+    },
+    {
+      "name": "HumanOrgans",
+      "title": "Human Organs",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HumanOrgans",
+      "sources": [
+        "https://t.me/TrendingStickers/3093"
+      ]
+    },
+    {
+      "name": "IceMan",
+      "title": "Ice Man",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/IceMan",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2615",
+        "https://t.me/TrendingStickers/2631"
+      ]
+    },
+    {
+      "name": "MyLittleDevil",
+      "title": "ImpRessive",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MyLittleDevil",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2587",
+        "https://t.me/TrendingStickers/2905"
+      ]
+    },
+    {
+      "name": "InvaderZim",
+      "title": "Invader Zim",
+      "total": 25,
+      "premium": 2,
+      "link": "https://t.me/addstickers/InvaderZim",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2966",
+        "https://t.me/TrendingStickers/3250"
+      ]
+    },
+    {
+      "name": "ColorfulJelly",
+      "title": "Jelly",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ColorfulJelly",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3193",
+        "https://t.me/TrendingStickers/3208",
+        "https://t.me/TrendingStickers/3249"
+      ]
+    },
+    {
+      "name": "JessicaRabbit",
+      "title": "Jessica Rabbit",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/JessicaRabbit",
+      "sources": [
+        "https://t.me/TrendingStickers/2678"
+      ]
+    },
+    {
+      "name": "JinxPowder",
+      "title": "Jinx",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/JinxPowder",
+      "sources": [
+        "https://t.me/TrendingStickers/3107",
+        "https://t.me/TrendingStickers/3133"
+      ]
+    },
+    {
+      "name": "JoBrownBear",
+      "title": "Jo Bear",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/JoBrownBear",
+      "sources": [
+        "https://t.me/TrendingStickers/3053"
+      ]
+    },
+    {
+      "name": "Joker",
+      "title": "Joker",
+      "total": 16,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Joker",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3236"
+      ]
+    },
+    {
+      "name": "JollySanta",
+      "title": "Jolly Santa",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/JollySanta",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2625",
+        "https://t.me/TrendingStickers/2642",
+        "https://t.me/TrendingStickers/2644"
+      ]
+    },
+    {
+      "name": "JudyAlvarez",
+      "title": "Judy Alvarez",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/JudyAlvarez",
+      "sources": [
+        "https://t.me/TrendingStickers/2972",
+        "https://t.me/TrendingStickers/2974"
+      ]
+    },
+    {
+      "name": "FatKing",
+      "title": "King",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/FatKing",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3202"
+      ]
+    },
+    {
+      "name": "HDKolobok",
+      "title": "Kolobok HD",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/HDKolobok",
+      "sources": [
+        "https://t.me/TrendingStickers/3047",
+        "https://t.me/TrendingStickers/3125"
+      ]
+    },
+    {
+      "name": "Kozita",
+      "title": "Kozita",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Kozita",
+      "sources": [
+        "https://t.me/TrendingStickers/2663",
+        "https://t.me/TrendingStickers/2680",
+        "https://t.me/TrendingStickers/2713"
+      ]
+    },
+    {
+      "name": "KoalaBear",
+      "title": "Kozy Koala",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/KoalaBear",
+      "sources": [
+        "https://t.me/TrendingStickers/2751",
+        "https://t.me/TrendingStickers/2991"
+      ]
+    },
+    {
+      "name": "LadyCat",
+      "title": "Lady Cat",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LadyCat",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2118",
+        "https://t.me/TrendingStickers/2119",
+        "https://t.me/TrendingStickers/2120"
+      ]
+    },
+    {
+      "name": "LadyVampire",
+      "title": "Lady Vampire",
+      "total": 16,
+      "premium": 1,
+      "link": "https://t.me/addstickers/LadyVampire",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3196"
+      ]
+    },
+    {
+      "name": "Ladybug",
+      "title": "Ladyboo",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Ladybug",
+      "sources": [
+        "https://t.me/TrendingStickers/2910",
+        "https://t.me/TrendingStickers/3048"
+      ]
+    },
+    {
+      "name": "HeavensLamby",
+      "title": "Lamby",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/HeavensLamby",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2188",
+        "https://t.me/TrendingStickers/2189",
+        "https://t.me/TrendingStickers/2190",
+        "https://t.me/TrendingStickers/2191"
+      ]
+    },
+    {
+      "name": "Lamplover",
+      "title": "Lamp Lover",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Lamplover",
+      "sources": [
+        "https://t.me/TrendingStickers/3115",
+        "https://t.me/TrendingStickers/3163"
+      ]
+    },
+    {
+      "name": "LeopoldTheLion",
+      "title": "Leopold",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/LeopoldTheLion",
+      "sources": [
+        "https://t.me/TrendingStickers/2773",
+        "https://t.me/TrendingStickers/3038"
+      ]
+    },
+    {
+      "name": "LovelyPeachy",
+      "title": "Life’s a Peach",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LovelyPeachy",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2098",
+        "https://t.me/TrendingStickers/2099",
+        "https://t.me/TrendingStickers/2100"
+      ]
+    },
+    {
+      "name": "LightningBug",
+      "title": "Lightning Bud",
+      "total": 30,
+      "premium": 5,
+      "link": "https://t.me/addstickers/LightningBug",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2095",
+        "https://t.me/TrendingStickers/2096",
+        "https://t.me/TrendingStickers/2418",
+        "https://t.me/TrendingStickers/2419",
+        "https://t.me/TrendingStickers/2513"
+      ]
+    },
+    {
+      "name": "LilCifer",
+      "title": "Lil Cifer",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LilCifer",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2514",
+        "https://t.me/TrendingStickers/2522",
+        "https://t.me/TrendingStickers/2621"
+      ]
+    },
+    {
+      "name": "LilPuppy",
+      "title": "Lil' Pup",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/LilPuppy",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2141",
+        "https://t.me/TrendingStickers/2142"
+      ]
+    },
+    {
+      "name": "Flame",
+      "title": "Little Flame",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/Flame",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2129",
+        "https://t.me/TrendingStickers/2130",
+        "https://t.me/TrendingStickers/2131",
+        "https://t.me/TrendingStickers/2132"
+      ]
+    },
+    {
+      "name": "LiveFlowers",
+      "title": "Live Flowers",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/LiveFlowers",
+      "sources": [
+        "https://t.me/TrendingStickers/3101"
+      ]
+    },
+    {
+      "name": "LongGoose",
+      "title": "Long Goose",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LongGoose",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2399",
+        "https://t.me/TrendingStickers/2438",
+        "https://t.me/TrendingStickers/2439"
+      ]
+    },
+    {
+      "name": "LoveBirds",
+      "title": "Love Birds",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/LoveBirds",
+      "sources": [
+        "https://t.me/TrendingStickers/3140"
+      ]
+    },
+    {
+      "name": "LoveHamsters",
+      "title": "Love Hamsters",
+      "total": 18,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LoveHamsters",
+      "sources": [
+        "https://t.me/TrendingStickers/2684",
+        "https://t.me/TrendingStickers/2688",
+        "https://t.me/TrendingStickers/3102"
+      ]
+    },
+    {
+      "name": "GumLoveIs",
+      "title": "Love Is",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/GumLoveIs",
+      "sources": [
+        "https://t.me/TrendingStickers/2789",
+        "https://t.me/TrendingStickers/3022"
+      ]
+    },
+    {
+      "name": "JayAndNana",
+      "title": "Love Story",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/JayAndNana",
+      "sources": [
+        "https://t.me/TrendingStickers/2697",
+        "https://t.me/TrendingStickers/3008"
+      ]
+    },
+    {
+      "name": "BadBadDog",
+      "title": "Lovehound",
+      "total": 29,
+      "premium": 4,
+      "link": "https://t.me/addstickers/BadBadDog",
+      "sources": [
+        "https://t.me/TrendingStickers/2935",
+        "https://t.me/TrendingStickers/2938",
+        "https://t.me/TrendingStickers/2941",
+        "https://t.me/TrendingStickers/2963"
+      ]
+    },
+    {
+      "name": "Lychee",
+      "title": "Lychee",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Lychee",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/TrendingStickers/2312",
+        "https://t.me/TrendingStickers/2932",
+        "https://t.me/TrendingStickers/3000",
+        "https://t.me/TrendingStickers/3105"
+      ]
+    },
+    {
+      "name": "MagicMandrake",
+      "title": "Magic Mandrake",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/MagicMandrake",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2108",
+        "https://t.me/TrendingStickers/3049",
+        "https://t.me/TrendingStickers/3177",
+        "https://t.me/TrendingStickers/3192"
+      ]
+    },
+    {
+      "name": "Mamkin_Pumpkin",
+      "title": "Mamkin Pumpkin",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Mamkin_Pumpkin",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2511",
+        "https://t.me/TrendingStickers/3158"
+      ]
+    },
+    {
+      "name": "MrMandarine",
+      "title": "Mandarin",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrMandarine",
+      "sources": [
+        "https://t.me/TrendingStickers/2078",
+        "https://t.me/TrendingStickers/2679",
+        "https://t.me/TrendingStickers/2869"
+      ]
+    },
+    {
+      "name": "PinkMarshmallow",
+      "title": "Marshmallow",
+      "total": 23,
+      "premium": 2,
+      "link": "https://t.me/addstickers/PinkMarshmallow",
+      "sources": [
+        "https://t.me/TrendingStickers/2670",
+        "https://t.me/TrendingStickers/2702"
+      ]
+    },
+    {
+      "name": "GrinchDog",
+      "title": "Max - the Grinch's dog",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/GrinchDog",
+      "sources": [
+        "https://t.me/TrendingStickers/2650",
+        "https://t.me/TrendingStickers/2652"
+      ]
+    },
+    {
+      "name": "MemesWithCats",
+      "title": "Memes With Cats",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/MemesWithCats",
+      "sources": [
+        "https://t.me/TrendingStickers/2742",
+        "https://t.me/TrendingStickers/2799",
+        "https://t.me/TrendingStickers/2875"
+      ]
+    },
+    {
+      "name": "MiaBunny",
+      "title": "Mia Bunny",
+      "total": 30,
+      "premium": 5,
+      "link": "https://t.me/addstickers/MiaBunny",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2136",
+        "https://t.me/TrendingStickers/2137",
+        "https://t.me/TrendingStickers/2138",
+        "https://t.me/TrendingStickers/2139",
+        "https://t.me/TrendingStickers/2140"
+      ]
+    },
+    {
+      "name": "Minions",
+      "title": "Minions",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Minions",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3317",
+        "https://t.me/TrendingStickers/3332"
+      ]
+    },
+    {
+      "name": "Miss_Bunny",
+      "title": "Miss Bunny",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Miss_Bunny",
+      "sources": [
+        "https://t.me/TrendingStickers/2833",
+        "https://t.me/TrendingStickers/2960"
+      ]
+    },
+    {
+      "name": "Mistress",
+      "title": "Mistress",
+      "total": 33,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Mistress",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2413",
+        "https://t.me/TrendingStickers/2420",
+        "https://t.me/TrendingStickers/2421"
+      ]
+    },
+    {
+      "name": "ModernDinosaur",
+      "title": "Modern Dinosaur",
+      "total": 32,
+      "premium": 2,
+      "link": "https://t.me/addstickers/ModernDinosaur",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2479",
+        "https://t.me/TrendingStickers/2676",
+        "https://t.me/TrendingStickers/2983"
+      ]
+    },
+    {
+      "name": "MonkeyPuppet",
+      "title": "Monkey Puppet",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MonkeyPuppet",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2167",
+        "https://t.me/TrendingStickers/2168"
+      ]
+    },
+    {
+      "name": "MrGreene",
+      "title": "Mr. Greene",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrGreene",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2508",
+        "https://t.me/TrendingStickers/2512"
+      ]
+    },
+    {
+      "name": "Meeseeks",
+      "title": "Mr. Meeseeks",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Meeseeks",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3042",
+        "https://t.me/TrendingStickers/3155",
+        "https://t.me/TrendingStickers/3178"
+      ]
+    },
+    {
+      "name": "MisterPigeon",
+      "title": "Mr. Pigeon",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/MisterPigeon",
+      "sources": [
+        "https://t.me/TrendingStickers/3004"
+      ]
+    },
+    {
+      "name": "MrAss",
+      "title": "Mr. Rosy Cheeks",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrAss",
+      "sources": [
+        "https://t.me/TrendingStickers/2733",
+        "https://t.me/TrendingStickers/2736"
+      ]
+    },
+    {
+      "name": "Muffin",
+      "title": "Muffin",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Muffin",
+      "sources": [
+        "https://t.me/TrendingStickers/2881",
+        "https://t.me/TrendingStickers/2886",
+        "https://t.me/TrendingStickers/3082"
+      ]
+    },
+    {
+      "name": "MummyJackal",
+      "title": "Mummy Jackal",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MummyJackal",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2560",
+        "https://t.me/TrendingStickers/2604"
+      ]
+    },
+    {
+      "name": "Mushroom",
+      "title": "Mushroom",
+      "total": 30,
+      "premium": 5,
+      "link": "https://t.me/addstickers/Mushroom",
+      "sources": [
+        "https://t.me/TrendingStickers/2843",
+        "https://t.me/TrendingStickers/2846",
+        "https://t.me/TrendingStickers/2894",
+        "https://t.me/TrendingStickers/2950",
+        "https://t.me/TrendingStickers/3028"
+      ]
+    },
+    {
+      "name": "LoveStory",
+      "title": "Narwhalentine",
+      "total": 18,
+      "premium": 3,
+      "link": "https://t.me/addstickers/LoveStory",
+      "sources": [
+        "https://t.me/TrendingStickers/2681",
+        "https://t.me/TrendingStickers/2806",
+        "https://t.me/TrendingStickers/2884"
+      ]
+    },
+    {
+      "name": "NekoBell",
+      "title": "Neko",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/NekoBell",
+      "sources": [
+        "https://t.me/Stickersnew/827",
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2385",
+        "https://t.me/TrendingStickers/2449",
+        "https://t.me/TrendingStickers/2450"
+      ]
+    },
+    {
+      "name": "NekoWaifu",
+      "title": "NekoChan",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/NekoWaifu",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2407",
+        "https://t.me/TrendingStickers/2632",
+        "https://t.me/TrendingStickers/2730"
+      ]
+    },
+    {
+      "name": "NewYearTiger",
+      "title": "New Year Tiger",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/NewYearTiger",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2618",
+        "https://t.me/TrendingStickers/2620"
+      ]
+    },
+    {
+      "name": "NickWallowPig",
+      "title": "Nick Wallow Pig",
+      "total": 31,
+      "premium": 2,
+      "link": "https://t.me/addstickers/NickWallowPig",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3164",
+        "https://t.me/TrendingStickers/3174"
+      ]
+    },
+    {
+      "name": "Orangoutang",
+      "title": "Orangoutang",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Orangoutang",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2147",
+        "https://t.me/TrendingStickers/2148"
+      ]
+    },
+    {
+      "name": "Lizard",
+      "title": "Oscar",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Lizard",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2923",
+        "https://t.me/TrendingStickers/2926",
+        "https://t.me/TrendingStickers/3087"
+      ]
+    },
+    {
+      "name": "OwledDidi",
+      "title": "Owled Didi",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/OwledDidi",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2113",
+        "https://t.me/TrendingStickers/2204",
+        "https://t.me/TrendingStickers/2509",
+        "https://t.me/TrendingStickers/2510"
+      ]
+    },
+    {
+      "name": "MrPanda",
+      "title": "Panda Amanda",
+      "total": 18,
+      "premium": 3,
+      "link": "https://t.me/addstickers/MrPanda",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2607",
+        "https://t.me/TrendingStickers/2987",
+        "https://t.me/TrendingStickers/3070"
+      ]
+    },
+    {
+      "name": "ToiletPaperBoy",
+      "title": "Paper Boy",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/ToiletPaperBoy",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3103",
+        "https://t.me/TrendingStickers/3176"
+      ]
+    },
+    {
+      "name": "Penguinissimo",
+      "title": "Penguinissimo",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Penguinissimo",
+      "sources": [
+        "https://t.me/TrendingStickers/2641"
+      ]
+    },
+    {
+      "name": "MrPugDog",
+      "title": "Penny Pug",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrPugDog",
+      "sources": [
+        "https://t.me/TrendingStickers/2815",
+        "https://t.me/TrendingStickers/2929"
+      ]
+    },
+    {
+      "name": "MrSeal",
+      "title": "Polar Pup",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrSeal",
+      "sources": [
+        "https://t.me/TrendingStickers/2739",
+        "https://t.me/TrendingStickers/2761"
+      ]
+    },
+    {
+      "name": "PoolFlamingo",
+      "title": "Pool Flamingo",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/PoolFlamingo",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2453",
+        "https://t.me/TrendingStickers/2454"
+      ]
+    },
+    {
+      "name": "PremiumGifts",
+      "title": "Premium Gifts",
+      "total": 30,
+      "premium": 30,
+      "link": "https://t.me/addstickers/PremiumGifts",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3179",
+        "https://t.me/TrendingStickers/3181",
+        "https://t.me/TrendingStickers/3182",
+        "https://t.me/TrendingStickers/3183",
+        "https://t.me/TrendingStickers/3184",
+        "https://t.me/TrendingStickers/3185",
+        "https://t.me/TrendingStickers/3186",
+        "https://t.me/TrendingStickers/3187",
+        "https://t.me/TrendingStickers/3188",
+        "https://t.me/TrendingStickers/3189",
+        "https://t.me/TrendingStickers/3191",
+        "https://t.me/TrendingStickers/3199",
+        "https://t.me/TrendingStickers/3200",
+        "https://t.me/TrendingStickers/3201",
+        "https://t.me/TrendingStickers/3205",
+        "https://t.me/TrendingStickers/3207",
+        "https://t.me/TrendingStickers/3209",
+        "https://t.me/TrendingStickers/3210",
+        "https://t.me/TrendingStickers/3211",
+        "https://t.me/TrendingStickers/3212",
+        "https://t.me/TrendingStickers/3213",
+        "https://t.me/TrendingStickers/3217",
+        "https://t.me/TrendingStickers/3226",
+        "https://t.me/TrendingStickers/3232",
+        "https://t.me/TrendingStickers/3237",
+        "https://t.me/TrendingStickers/3241",
+        "https://t.me/TrendingStickers/3243",
+        "https://t.me/TrendingStickers/3248",
+        "https://t.me/TrendingStickers/3251"
+      ]
+    },
+    {
+      "name": "Pretty2Friends",
+      "title": "Pretty Friends",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Pretty2Friends",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2310",
+        "https://t.me/TrendingStickers/2699",
+        "https://t.me/TrendingStickers/3240"
+      ]
+    },
+    {
+      "name": "FishPrometheus",
+      "title": "Prometheus",
+      "total": 29,
+      "premium": 3,
+      "link": "https://t.me/addstickers/FishPrometheus",
+      "sources": [
+        "https://t.me/TrendingStickers/2764",
+        "https://t.me/TrendingStickers/2838",
+        "https://t.me/TrendingStickers/2878"
+      ]
+    },
+    {
+      "name": "FishPuffer",
+      "title": "Puffer Fish",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/FishPuffer",
+      "sources": [
+        "https://t.me/TrendingStickers/2821",
+        "https://t.me/TrendingStickers/2830",
+        "https://t.me/TrendingStickers/3063"
+      ]
+    },
+    {
+      "name": "PumpkinCube",
+      "title": "Pumpkin Cube",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/PumpkinCube",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2569",
+        "https://t.me/TrendingStickers/2570"
+      ]
+    },
+    {
+      "name": "PumpkinGhost",
+      "title": "Pumpkin Ghost",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/PumpkinGhost",
+      "sources": [
+        "https://t.me/TrendingStickers/2581",
+        "https://t.me/TrendingStickers/2582"
+      ]
+    },
+    {
+      "name": "Funny_Pumpkins",
+      "title": "Pumpkins",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Funny_Pumpkins",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2502",
+        "https://t.me/TrendingStickers/2507"
+      ]
+    },
+    {
+      "name": "Qwabbit",
+      "title": "Qwabbit",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Qwabbit",
+      "sources": [
+        "https://t.me/TrendingStickers/2715",
+        "https://t.me/TrendingStickers/2827"
+      ]
+    },
+    {
+      "name": "r2dog2",
+      "title": "R2-DOG2",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/r2dog2",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2592",
+        "https://t.me/TrendingStickers/2885",
+        "https://t.me/TrendingStickers/2908"
+      ]
+    },
+    {
+      "name": "RaccoonyDays",
+      "title": "Racoon",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/RaccoonyDays",
+      "sources": [
+        "https://t.me/TrendingStickers/2694",
+        "https://t.me/TrendingStickers/2696",
+        "https://t.me/TrendingStickers/2708"
+      ]
+    },
+    {
+      "name": "RedFox",
+      "title": "Red Fox",
+      "total": 28,
+      "premium": 2,
+      "link": "https://t.me/addstickers/RedFox",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2324",
+        "https://t.me/TrendingStickers/2427",
+        "https://t.me/TrendingStickers/2437"
+      ]
+    },
+    {
+      "name": "Red_Squirrel",
+      "title": "Red Squirrel",
+      "total": 29,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Red_Squirrel",
+      "sources": [
+        "https://t.me/TrendingStickers/2824",
+        "https://t.me/TrendingStickers/2962",
+        "https://t.me/TrendingStickers/3128"
+      ]
+    },
+    {
+      "name": "RickyPenguin",
+      "title": "Ricky",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/RickyPenguin",
+      "sources": [
+        "https://t.me/TrendingStickers/2639",
+        "https://t.me/TrendingStickers/2651"
+      ]
+    },
+    {
+      "name": "RobinBird",
+      "title": "Robin",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/RobinBird",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2611",
+        "https://t.me/TrendingStickers/2628"
+      ]
+    },
+    {
+      "name": "Rooster",
+      "title": "Rooster",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Rooster",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2793",
+        "https://t.me/TrendingStickers/3143",
+        "https://t.me/TrendingStickers/3146"
+      ]
+    },
+    {
+      "name": "Rrredpanda",
+      "title": "RRRed Panda",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Rrredpanda",
+      "sources": [
+        "https://t.me/TrendingStickers/2959",
+        "https://t.me/TrendingStickers/3034",
+        "https://t.me/TrendingStickers/3050"
+      ]
+    },
+    {
+      "name": "SalchichaDog",
+      "title": "Salchicha Dog",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/SalchichaDog",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2192",
+        "https://t.me/TrendingStickers/2193"
+      ]
+    },
+    {
+      "name": "MrSandman",
+      "title": "Sandman",
+      "total": 16,
+      "premium": 1,
+      "link": "https://t.me/addstickers/MrSandman",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3375"
+      ]
+    },
+    {
+      "name": "Hohoho",
+      "title": "Santa",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Hohoho",
+      "sources": [
+        "https://t.me/TrendingStickers/2636",
+        "https://t.me/TrendingStickers/2638"
+      ]
+    },
+    {
+      "name": "SantaGirlHNY",
+      "title": "Santa Girl",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SantaGirlHNY",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2610"
+      ]
+    },
+    {
+      "name": "TeddyBear",
+      "title": "Scarf Ace",
+      "total": 24,
+      "premium": 3,
+      "link": "https://t.me/addstickers/TeddyBear",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3169",
+        "https://t.me/TrendingStickers/3170",
+        "https://t.me/TrendingStickers/3171"
+      ]
+    },
+    {
+      "name": "Scream",
+      "title": "Scream",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Scream",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2490",
+        "https://t.me/TrendingStickers/2565",
+        "https://t.me/TrendingStickers/2566"
+      ]
+    },
+    {
+      "name": "MrSeagull",
+      "title": "Seagull Sam",
+      "total": 29,
+      "premium": 3,
+      "link": "https://t.me/addstickers/MrSeagull",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2194",
+        "https://t.me/TrendingStickers/2195",
+        "https://t.me/TrendingStickers/2196"
+      ]
+    },
+    {
+      "name": "JapaneseShiba",
+      "title": "Shiba",
+      "total": 29,
+      "premium": 4,
+      "link": "https://t.me/addstickers/JapaneseShiba",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2535",
+        "https://t.me/TrendingStickers/2693",
+        "https://t.me/TrendingStickers/2786",
+        "https://t.me/TrendingStickers/3098",
+        "https://t.me/TrendingStickers/3100"
+      ]
+    },
+    {
+      "name": "RedShibaInu",
+      "title": "Shiba Inu",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/RedShibaInu",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2121",
+        "https://t.me/TrendingStickers/2122",
+        "https://t.me/TrendingStickers/2123"
+      ]
+    },
+    {
+      "name": "ShinobiAssassin",
+      "title": "Shinobi",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/ShinobiAssassin",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3165",
+        "https://t.me/TrendingStickers/3168",
+        "https://t.me/TrendingStickers/3194"
+      ]
+    },
+    {
+      "name": "HuskySiberian",
+      "title": "Siberian Husky",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/HuskySiberian",
+      "sources": [
+        "https://t.me/TrendingStickers/2689",
+        "https://t.me/TrendingStickers/2707",
+        "https://t.me/TrendingStickers/2724",
+        "https://t.me/TrendingStickers/2750"
+      ]
+    },
+    {
+      "name": "Skull",
+      "title": "Skull",
+      "total": 29,
+      "premium": 3,
+      "link": "https://t.me/addstickers/Skull",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2530",
+        "https://t.me/TrendingStickers/2559",
+        "https://t.me/TrendingStickers/2580"
+      ]
+    },
+    {
+      "name": "CatSkull",
+      "title": "Skull Cat",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/CatSkull",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2521",
+        "https://t.me/TrendingStickers/3216"
+      ]
+    },
+    {
+      "name": "SliceofPizza",
+      "title": "Slice of Pizza",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SliceofPizza",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3215"
+      ]
+    },
+    {
+      "name": "Slimer",
+      "title": "Slimer",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Slimer",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3110",
+        "https://t.me/TrendingStickers/3306"
+      ]
+    },
+    {
+      "name": "Snailhare",
+      "title": "Snailhare",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Snailhare",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2401",
+        "https://t.me/TrendingStickers/3122"
+      ]
+    },
+    {
+      "name": "SneakerChuck",
+      "title": "Sneaker Chuck",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SneakerChuck",
+      "sources": [
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2082",
+        "https://t.me/TrendingStickers/2996"
+      ]
+    },
+    {
+      "name": "SnowballBoy",
+      "title": "Snowball Boy",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SnowballBoy",
+      "sources": [
+        "https://t.me/TrendingStickers/2640"
+      ]
+    },
+    {
+      "name": "Snowflake",
+      "title": "Snowflake",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Snowflake",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2617",
+        "https://t.me/TrendingStickers/2619"
+      ]
+    },
+    {
+      "name": "SpeedyElf",
+      "title": "Speedy Elf",
+      "total": 23,
+      "premium": 3,
+      "link": "https://t.me/addstickers/SpeedyElf",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3233",
+        "https://t.me/TrendingStickers/3256",
+        "https://t.me/TrendingStickers/3257"
+      ]
+    },
+    {
+      "name": "SpottyGiraffe",
+      "title": "Spotty",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/SpottyGiraffe",
+      "sources": [
+        "https://t.me/TrendingStickers/2660",
+        "https://t.me/TrendingStickers/2912"
+      ]
+    },
+    {
+      "name": "StealthMoon",
+      "title": "Stealth Moon",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/StealthMoon",
+      "sources": [
+        "https://t.me/TrendingStickers/3118"
+      ]
+    },
+    {
+      "name": "SteampunkJulia",
+      "title": "Steamy Julia",
+      "total": 28,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SteampunkJulia",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/807",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2102"
+      ]
+    },
+    {
+      "name": "StinkyLove",
+      "title": "Stinky Love",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/StinkyLove",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/TrendingStickers/2528",
+        "https://t.me/TrendingStickers/2780"
+      ]
+    },
+    {
+      "name": "SunAndCloud",
+      "title": "Sun and Cloud",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/SunAndCloud",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3108",
+        "https://t.me/TrendingStickers/3166"
+      ]
+    },
+    {
+      "name": "SuperStar",
+      "title": "Super Star",
+      "total": 28,
+      "premium": 3,
+      "link": "https://t.me/addstickers/SuperStar",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2622",
+        "https://t.me/TrendingStickers/2623"
+      ]
+    },
+    {
+      "name": "SushiCat",
+      "title": "Sushi Cat",
+      "total": 38,
+      "premium": 3,
+      "link": "https://t.me/addstickers/SushiCat",
+      "sources": [
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2555",
+        "https://t.me/TrendingStickers/3059"
+      ]
+    },
+    {
+      "name": "SweetyStrawberry",
+      "title": "Sweety Strawberry",
+      "total": 30,
+      "premium": 4,
+      "link": "https://t.me/addstickers/SweetyStrawberry",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2149",
+        "https://t.me/TrendingStickers/2150",
+        "https://t.me/TrendingStickers/2151",
+        "https://t.me/TrendingStickers/2152"
+      ]
+    },
+    {
+      "name": "Tapir",
+      "title": "Tapir",
+      "total": 17,
+      "premium": 2,
+      "link": "https://t.me/addstickers/Tapir",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3218",
+        "https://t.me/TrendingStickers/3224"
+      ]
+    },
+    {
+      "name": "TendyTiger",
+      "title": "Tendy",
+      "total": 29,
+      "premium": 4,
+      "link": "https://t.me/addstickers/TendyTiger",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2169",
+        "https://t.me/TrendingStickers/2170",
+        "https://t.me/TrendingStickers/2171",
+        "https://t.me/TrendingStickers/2172"
+      ]
+    },
+    {
+      "name": "MrLittlePrince",
+      "title": "The Little Prince",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/MrLittlePrince",
+      "sources": [
+        "https://t.me/TrendingStickers/2976",
+        "https://t.me/TrendingStickers/3095"
+      ]
+    },
+    {
+      "name": "ThatIsWhatSheSaid",
+      "title": "The Office",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/ThatIsWhatSheSaid",
+      "sources": [
+        "https://t.me/TrendingStickers/3167"
+      ]
+    },
+    {
+      "name": "TheRing",
+      "title": "The Ring",
+      "total": 27,
+      "premium": 2,
+      "link": "https://t.me/addstickers/TheRing",
+      "sources": [
+        "https://t.me/TrendingStickers/2578",
+        "https://t.me/TrendingStickers/2579"
+      ]
+    },
+    {
+      "name": "TibetanFox",
+      "title": "Tibetan Fox",
+      "total": 34,
+      "premium": 4,
+      "link": "https://t.me/addstickers/TibetanFox",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/Stickersnew/833",
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2446",
+        "https://t.me/TrendingStickers/2468",
+        "https://t.me/TrendingStickers/2529",
+        "https://t.me/TrendingStickers/2584",
+        "https://t.me/TrendingStickers/2609"
+      ]
+    },
+    {
+      "name": "TidyTieTom",
+      "title": "Tidy Tie Tom",
+      "total": 23,
+      "premium": 2,
+      "link": "https://t.me/addstickers/TidyTieTom",
+      "sources": [
+        "https://t.me/TrendingStickers/3123"
+      ]
+    },
+    {
+      "name": "VeryTiredPerson",
+      "title": "Tired Person",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/VeryTiredPerson",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3247"
+      ]
+    },
+    {
+      "name": "Tomby",
+      "title": "Tomby",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/Tomby",
+      "sources": [
+        "https://t.me/TrendingStickers/2575"
+      ]
+    },
+    {
+      "name": "TutterMouse",
+      "title": "Tutter",
+      "total": 23,
+      "premium": 2,
+      "link": "https://t.me/addstickers/TutterMouse",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3109",
+        "https://t.me/TrendingStickers/3111"
+      ]
+    },
+    {
+      "name": "TwisterDog",
+      "title": "Twister the Dog",
+      "total": 19,
+      "premium": 4,
+      "link": "https://t.me/addstickers/TwisterDog",
+      "sources": [
+        "https://t.me/PremiumStickers/2",
+        "https://t.me/Stickersnew/811",
+        "https://t.me/TrendingStickers/2173",
+        "https://t.me/TrendingStickers/2174",
+        "https://t.me/TrendingStickers/2175",
+        "https://t.me/TrendingStickers/2176"
+      ]
+    },
+    {
+      "name": "WallyOwl",
+      "title": "Wally the Owl",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/WallyOwl",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/2630",
+        "https://t.me/TrendingStickers/2701",
+        "https://t.me/TrendingStickers/2703",
+        "https://t.me/TrendingStickers/2712"
+      ]
+    },
+    {
+      "name": "SwampGirl",
+      "title": "Water Lily",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/SwampGirl",
+      "sources": [
+        "https://t.me/Stickersnew/858",
+        "https://t.me/TrendingStickers/3346"
+      ]
+    },
+    {
+      "name": "WhiteWind",
+      "title": "White Wind",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/WhiteWind",
+      "sources": [
+        "https://t.me/TrendingStickers/2767",
+        "https://t.me/TrendingStickers/2796"
+      ]
+    },
+    {
+      "name": "wizard",
+      "title": "Wizard",
+      "total": 31,
+      "premium": 1,
+      "link": "https://t.me/addstickers/wizard",
+      "sources": [
+        "https://t.me/Stickersnew/823",
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2328",
+        "https://t.me/TrendingStickers/3119"
+      ]
+    },
+    {
+      "name": "WorldArt",
+      "title": "World Art",
+      "total": 33,
+      "premium": 3,
+      "link": "https://t.me/addstickers/WorldArt",
+      "sources": [
+        "https://t.me/TrendingStickers/2205",
+        "https://t.me/TrendingStickers/2206",
+        "https://t.me/TrendingStickers/2207"
+      ]
+    },
+    {
+      "name": "YellowBoy",
+      "title": "Yellow Boy",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/YellowBoy",
+      "sources": [
+        "https://t.me/Stickersnew/829",
+        "https://t.me/TrendingStickers/2517",
+        "https://t.me/TrendingStickers/2519"
+      ]
+    },
+    {
+      "name": "YetiHolidays",
+      "title": "Yeti on Holidays",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/YetiHolidays",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2646"
+      ]
+    },
+    {
+      "name": "YokoChan",
+      "title": "Yoko",
+      "total": 22,
+      "premium": 2,
+      "link": "https://t.me/addstickers/YokoChan",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2849",
+        "https://t.me/TrendingStickers/3112"
+      ]
+    },
+    {
+      "name": "ChristmasDogs",
+      "title": "Сhristmas Dogs",
+      "total": 26,
+      "premium": 1,
+      "link": "https://t.me/addstickers/ChristmasDogs",
+      "sources": [
+        "https://t.me/Stickersnew/837",
+        "https://t.me/TrendingStickers/2627"
+      ]
+    },
+    {
+      "name": "Cucaracha",
+      "title": "Сucaracha",
+      "total": 24,
+      "premium": 4,
+      "link": "https://t.me/addstickers/Cucaracha",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/2704",
+        "https://t.me/TrendingStickers/2718",
+        "https://t.me/TrendingStickers/2758",
+        "https://t.me/TrendingStickers/3204"
+      ]
+    },
+    {
+      "name": "ChkChrk",
+      "title": "чык чырык",
+      "total": 21,
+      "premium": 1,
+      "link": "https://t.me/addstickers/ChkChrk",
+      "sources": [
+        "https://t.me/Stickersnew/853",
+        "https://t.me/TrendingStickers/3175"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "release": "premium-catalog-release-20261021T152910Z",
+  "tests": {
+    "files": [
+      "curated.test.mjs",
+      "stickers.test.mjs"
+    ],
+    "passed": 8,
+    "liveApiSetsChecked": 323
+  },
+  "installed": [
+    "src/style.css",
+    "server/curated-stickers.json",
+    "README.md",
+    "dist/assets/index-DAhlXN5V.js",
+    "dist/assets/index-Cr_CIDYo.css",
+    "dist/index.html"
+  ],
+  "state": "verified",
+  "oldPid": "1109329",
+  "startedAt": "2026-10-21T15:33:36.679926+00:00",
+  "catalog": {
+    "packs": 236,
+    "stickers": 6080,
+    "premium": 581
+  },
+  "newPid": "1122649",
+  "finishedAt": "2026-10-21T15:34:03.784984+00:00",
+  "browser": {
+    "url": "https://premium-emoji.korobkoff.com",
+    "catalog": 6080,
+    "premiumFilter": 581,
+    "lazyLoadedTiles": 224,
+    "favorites": {
+      "emoji": {
+        "symbol": "★",
+        "color": "rgb(255, 213, 74)"
+      },
+      "sticker": {
+        "symbol": "★",
+        "color": "rgb(255, 213, 74)"
+      },
+      "testFavoritesRemoved": true
+    },
+    "consoleErrors": 0,
+    "screenshot": "output/ui/premium-catalog-yellow-favorites.png"
+  },
+  "deploymentNotes": [
+    "Production clipboard behavior preserved.",
+    "Only the favorite-star color changed in production style.css.",
+    "No real outgoing Telegram messages were sent during verification."
+  ]
+}

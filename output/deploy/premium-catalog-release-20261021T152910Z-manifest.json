@@ -1,0 +1,1462 @@
+{
+  "release": "premium-catalog-release-20261021T152910Z",
+  "before": {
+    "host": "my-server",
+    "files": {
+      "src/attachment.js": {
+        "sha256": "7a3375bfa540bc1697cb49e76982b03a85eeb4799221e0bf84756b7397a4fa7e",
+        "size": 4426
+      },
+      "src/editor-ui.js": {
+        "sha256": "3f29cebc3b3f8830962668fb03582dcbbfc23dd678b46f21a5a1aba3887f4fc6",
+        "size": 3317
+      },
+      "src/attachment-store.js": {
+        "sha256": "3edcbd14b333a4bd81514cc1ad8411eaf44400953e4a884f65bd8644ea6dc0a6",
+        "size": 1192
+      },
+      "src/conversation.js": {
+        "sha256": "6bb67dfd3827e06f59987e6629ac4c7880901240e66ccad24b5fdb544b492454",
+        "size": 11584
+      },
+      "src/main.js": {
+        "sha256": "05b6a4524fd2ece7b6c5a8e7abf70c3701ac0f556035d05a80b8a5da465c02a1",
+        "size": 46881
+      },
+      "src/emoji-scrollbar.css": {
+        "sha256": "ab26d0b9937cfc55d84f5f048aac6fad70b1583f74c9055daa4b87641db91f0f",
+        "size": 1007
+      },
+      "src/clipboard.js": {
+        "sha256": "102cb92d480d58a633fa85e3bff233405f69dc98f0a7821d27c09ddca73ca590",
+        "size": 3206
+      },
+      "src/emoji-player.js": {
+        "sha256": "b22e269125dd092bcf9946988d2cb9c765541e41da1f0b39c689b07d9cc0fbef",
+        "size": 8989
+      },
+      "src/brand-star.js": {
+        "sha256": "610fc24704f62f05cd9c677cac15dbfaed427c9e9c0abeef71b0173958fe6448",
+        "size": 909
+      },
+      "src/emoji-scrollbar.js": {
+        "sha256": "e3de9f6b4ac9e8ae3c40c6add35bae9d0adcc1aa9e0ed03575d26fc1c98e2fbe",
+        "size": 4242
+      },
+      "src/stickers.css": {
+        "sha256": "f50c95d46ecff56e1a40823f8c6f346938cfbb940a7b24744e3340dfadeb5328",
+        "size": 2221
+      },
+      "src/style.css": {
+        "sha256": "8313087049147ebfec2871764e4707be027462adb2cb87dd43caa5f38c32f13e",
+        "size": 30526
+      },
+      "src/conversation.css": {
+        "sha256": "cbad78eb373912ee89c8644cbd2205c2e47ef50b8419e8a71a9c15be534aa083",
+        "size": 7321
+      },
+      "src/delivery-batch.js": {
+        "sha256": "900c846de906333aa4396279ecd4ced11971441fa741c24cb4d36076a73fb2e2",
+        "size": 869
+      },
+      "src/editor-ui.css": {
+        "sha256": "2b175cfb716f46f59d20ce2452b4892e339a6fb6e299ccb514bb6fc8b8492f48",
+        "size": 1127
+      },
+      "src/fonts.css": {
+        "sha256": "2feb20e922f174bc87017ab50e236dbbcaebb351c22784ca3c446ce2b2390f52",
+        "size": 79
+      },
+      "server/history.mjs": {
+        "sha256": "4517daf0232d3ff7f78608bb4eccaf6e370f04003b087e2343677b5128de10f9",
+        "size": 3031
+      },
+      "server/auth.mjs": {
+        "sha256": "305cbc3e56192a7c1005237b626ad9f56ee1e26e2e4caff26994bb22496a9869",
+        "size": 1839
+      },
+      "server/catalog.mjs": {
+        "sha256": "89d40ebbf0ba5e794689db24031ffc5743451012a4e183c1f2ef0918c6b192ab",
+        "size": 5271
+      },
+      "server/document.mjs": {
+        "sha256": "39ac2ec6265ec2e9b1e74a1c459770beaec8f36e496f0da7a105142e95311a4e",
+        "size": 4937
+      },
+      "server/store.mjs": {
+        "sha256": "31d18b173591828fa92281e854c2a89601156eab56f259dc163d18c035c5e469",
+        "size": 10842
+      },
+      "server/attachment.mjs": {
+        "sha256": "db7e13aa3909b642498d1162e2c9b989f3a66ffcaa348dff60390bfddc91f50a",
+        "size": 2851
+      },
+      "server/app.mjs": {
+        "sha256": "e9cefcc0846b20ac2df81314f070ad7444ef22bd1951133cf6fed38c0ee620f9",
+        "size": 17582
+      },
+      "server/curated-stickers.json": {
+        "sha256": "256e5f5e00febad3088cb528f44c12e0590b364915e5808c98846330e7891185",
+        "size": 50
+      },
+      "server/config.mjs": {
+        "sha256": "2dca5542160675ebcb70f9b23cb6e00c01a50577edf8188aaa7acba1aa3e5a01",
+        "size": 1421
+      },
+      "server/telegram.mjs": {
+        "sha256": "4d24c00bc78fb62440984b593050b6f98629214db34b8114fae61e32710ba24d",
+        "size": 3133
+      },
+      "server/bot.mjs": {
+        "sha256": "bf14ff47969eab7a26a8c323c7353060895c97d315faa1a2a3c520d263566376",
+        "size": 4320
+      },
+      "server/curated-packs.json": {
+        "sha256": "6a5c95ed467b2dbb5c9b8fedcd5b1a109eadb4df464b1fa5189a3d8bb28abbbd",
+        "size": 626
+      },
+      "server/destinations.mjs": {
+        "sha256": "b116dac235ad1f199708b62157233d7344495c017375859058062abc27ba4f03",
+        "size": 2419
+      },
+      "server/index.mjs": {
+        "sha256": "6ade6fc9cdec351a3a105f3a46b01d8a0dbfcc086b6afdee46f909a643b760c7",
+        "size": 1697
+      },
+      "public/brand/premium-star.json": {
+        "sha256": "b290120f41b011c503230bf9f7aa8047a6d2b808cce2ba1383b31e08972961be",
+        "size": 153481
+      },
+      "scripts/bot.mjs": {
+        "sha256": "f2d9fe1414eb9f205b98117f6b346b0167286594c54016c20af8765dff286515",
+        "size": 1625
+      },
+      "tests/destinations.test.mjs": {
+        "sha256": "29b1a396c247aa8e8c13aba5e76d368caae10fb75a17a2d5a443960ea242f6d7",
+        "size": 3464
+      },
+      "tests/batch.test.mjs": {
+        "sha256": "0e99ff377579e7f36652dcf015af4c9fc08f12f24cfa7b7fd41d02257d8c2676",
+        "size": 1462
+      },
+      "tests/browser-fixture.mjs": {
+        "sha256": "1b398e7e28808501d9dbebb608c67af4d59e4f6eb12f126e8db96aed7aa7072c",
+        "size": 4802
+      },
+      "tests/stickers.test.mjs": {
+        "sha256": "8a4c1833a69f9cabe4b8887246d61964d4f6f606446d57cd77c7f62315f7a45f",
+        "size": 10503
+      },
+      "tests/curated.test.mjs": {
+        "sha256": "65d94beaa9224d10a8b9630cb2dd968d106e8cbe067909ea501d7d7f3a6ca79d",
+        "size": 943
+      },
+      "tests/core.test.mjs": {
+        "sha256": "56292949fa06000fcfaa70e8814d1b89a46949fbb52d5c11f035e9cfedec91a1",
+        "size": 9285
+      },
+      "deploy/cloudflared.yml": {
+        "sha256": "816be178dfce3f4c5a2082e72201912b957c11fc9fcfc60ad9c6e15f71850267",
+        "size": 269
+      },
+      "deploy/premium-emoji-tunnel.service": {
+        "sha256": "b483ad49b76ca9f3ccf35a1c50244e92ce26de237458770551561c506ccb051a",
+        "size": 356
+      },
+      "deploy/premium-emoji-agent.service": {
+        "sha256": "e341662bbcba2bd97a37bddcb20105eca933d7d21b843062f45d04bb15ebcb52",
+        "size": 631
+      },
+      "dist/index.html": {
+        "sha256": "683d946f53da791f656d835f97cce2dd8a89743afb7f4c0c13903277de9d4c87",
+        "size": 16980
+      },
+      "dist/favicon.svg": {
+        "sha256": "584d0c35a5ba22c8801ec703670a3b31247c74836be64e5c6cec4c7f39d11aff",
+        "size": 222
+      },
+      "dist/assets/index-DbPSvjSF.css": {
+        "sha256": "6e4c88ca9750dd66531dbeb3da276784c2620c23cbf86c92747fd91317294a55",
+        "size": 19859
+      },
+      "dist/assets/index-vXvF-tp2.js": {
+        "sha256": "49848d920bcbcb2816f17d142e77809b607706daae0edcb01b940aa97f749eb5",
+        "size": 443500
+      },
+      "dist/assets/index-CVob7tBB.css": {
+        "sha256": "9e123ea45fb870723ea53a2ad691fd5957160c11d27cbf81a48a840c2d40f88b",
+        "size": 33941
+      },
+      "dist/assets/index-DcUhRvDG.js": {
+        "sha256": "a864c467f7b070eccba2304115afe7e4d1a83f828632eb1202cc43010daf791e",
+        "size": 439896
+      },
+      "dist/assets/lottie_light.min-CDw5XMf8.js": {
+        "sha256": "f6cb88ca251b24a23440535d2598a0fa65789b3b27e0baf7b35a52f5c3b0c2a7",
+        "size": 167382
+      },
+      "dist/assets/index-f0evAp6Y.css": {
+        "sha256": "00dbd8dcde805a47ee7ca544a23d662a4ffcfdc94999ec58d2c1e0ddba8ad1b2",
+        "size": 17340
+      },
+      "dist/assets/index-DCQD-EKW.js": {
+        "sha256": "6c9ccffa7bfd07cbfed3093eeeffc7061901414371dd72c58d70f4bcf832cef0",
+        "size": 430308
+      },
+      "dist/assets/index-B_BEUbhk.js": {
+        "sha256": "ec51ee2eca903d250a8f0d97795941cbb39f62ed09181b37fccc944c9a0ab62f",
+        "size": 437263
+      },
+      "dist/assets/index-DzIMrGJK.css": {
+        "sha256": "2fb223b6cab3bf673626a5aa1ba717578325f6cad81b8bdf28155dea7f5a2a48",
+        "size": 21605
+      },
+      "dist/assets/index-B6qOXP0D.css": {
+        "sha256": "367f4af3311ca33f5c9c3c0b76d3ec5ce1e54eb23246f9e799247f8bc3894ee9",
+        "size": 17180
+      },
+      "dist/assets/index-CVDT4xiD.js": {
+        "sha256": "196f3388a1bc6539b705f0ff08b51f4ee7a6f1f556aa52fc59eacb57e8eea80a",
+        "size": 416668
+      },
+      "dist/assets/index-BFszEfNH.css": {
+        "sha256": "063fcbd3771104620c28cdab70e9d882f17850a8766465706fc66138bc359e29",
+        "size": 37377
+      },
+      "dist/assets/lottie_light.min-GIMZKKCl.js": {
+        "sha256": "0a0438c8bc3f7a65d733a6cd8102cbadecca107c64045e9cf891e89672343b0a",
+        "size": 167366
+      },
+      "dist/assets/index-CKfqLqfx.css": {
+        "sha256": "7d5acd3fe69b3cae86034bb1f17a705341e991ce7a80d29dd56f4419b70b1f41",
+        "size": 34154
+      },
+      "dist/assets/index-DpK74nnC.js": {
+        "sha256": "0b474b0de2f7f67733f999e0610fe3e1198ebeb72ded604007726b8f9030a224",
+        "size": 435275
+      },
+      "dist/assets/index-BE5Cg7dk.js": {
+        "sha256": "73f2e82aebb98c28f157301b25f5c041b454b50684370cf99e4bbbf7959635db",
+        "size": 436997
+      },
+      "dist/assets/index-Cb9IsKCk.js": {
+        "sha256": "215d75054d38cde7227bde97f9a994ec0366b907e2fcc6c477eb0d531cd87e0b",
+        "size": 421981
+      },
+      "dist/assets/index-DblI4oSI.js": {
+        "sha256": "fea7c5ac49e607e35f3d5c659558a7f56726d0a840387eff06c59a30961fa187",
+        "size": 416637
+      },
+      "dist/assets/index-CeomOq-N.js": {
+        "sha256": "110e47bc2ed24e45f25cdbef1f3b6b268bc196564d8f35043527be8741430030",
+        "size": 439803
+      },
+      "dist/assets/index-BN_XXv6E.js": {
+        "sha256": "d4a30761cd129717a3acd3931942834cedceeed67c6b0fb54721767c0d413221",
+        "size": 428657
+      },
+      "dist/assets/index-DeqT1vcz.css": {
+        "sha256": "928012263972540a40d17e76bd555583e46a1e1766f860ef9b1086d5f5b48df3",
+        "size": 41399
+      },
+      "dist/assets/index-BoX4lBJt.css": {
+        "sha256": "d889af731d5f9783911ab509f352da1051dd66ee01d3399f6ce2f19bad100110",
+        "size": 30581
+      },
+      "dist/assets/index-MjO1lp-J.css": {
+        "sha256": "1f5e87af9b2ae5e7155b7a071968eebf3b74853aa817eb068442d4ce23124f5c",
+        "size": 38942
+      },
+      "dist/assets/index-oCw8-cmz.css": {
+        "sha256": "6b57b0c831bc781ac2e7525ef827525a38899d1294a1352fbb2702126c8848f7",
+        "size": 35111
+      },
+      "dist/assets/index-BC7rLAG2.css": {
+        "sha256": "77778889ae77853ad2a30206a91ecd8a41e1a2cc9efc6fa82530c284dd6cdcab",
+        "size": 26614
+      },
+      "dist/assets/index-C_1-F8rR.css": {
+        "sha256": "16ea9171b8d8b86622893f4e51705191f0a9abee455dc6a0fc19bc6f04f01d33",
+        "size": 38744
+      },
+      "dist/assets/index-BpzhNwB_.css": {
+        "sha256": "58fbfe95695fc05905d785268902b44f48b296723a110938326369b88565fce7",
+        "size": 38176
+      },
+      "dist/assets/index-DbWVzrgm.css": {
+        "sha256": "9d9b38c261a0ec4473ac36a0e9d7a080a741f921ce7c4b89ab3d1965a3e9c28c",
+        "size": 20208
+      },
+      "dist/assets/index-Dlv1OTEq.css": {
+        "sha256": "887ca89a3b65eacee7b5e18298cd72bd5f10db57ffba21f32e7b41132df8cda9",
+        "size": 24860
+      },
+      "dist/assets/index-DxLQc-qY.js": {
+        "sha256": "71a8b8262f981a405c75f0d57636467dc23fcdccf8830f20e7d9d911e6535886",
+        "size": 415638
+      },
+      "dist/assets/index-CTwXUYrm.css": {
+        "sha256": "fd65c16d61853a57b5c2ce7d05a54410296073fb3882a072765b59b7e9ba42a8",
+        "size": 36669
+      },
+      "dist/assets/index-xI99tLYs.js": {
+        "sha256": "e2043bcd08e3cbf9cee001ec881fece9a17d1ea2838accd3ebe143777ebc58b9",
+        "size": 413696
+      },
+      "dist/assets/index-CNXNOsua.js": {
+        "sha256": "c533ad53a354c5132d17494d1c90fb8631e2c54da0589e328082875aa711fbeb",
+        "size": 416282
+      },
+      "dist/assets/index-BN748Bzl.css": {
+        "sha256": "adcae1e8da8fe4ccae89668157aff72addab16e6e3a42f3b6330ff54999301df",
+        "size": 24198
+      },
+      "dist/assets/index-CmDYyCD4.css": {
+        "sha256": "4fd8e058f1dde96305bfa6edd6edc73f20ed5ba81b1689caee91e3130ef987c9",
+        "size": 33154
+      },
+      "dist/assets/index-BEtPp7_W.js": {
+        "sha256": "5fefed8029e170cecdd17d704e9483692c333907b8067411dff7d0f1a9bfda1c",
+        "size": 424853
+      },
+      "dist/assets/index-C_WhHRRZ.css": {
+        "sha256": "ce56ef05d9611a68af6b9293672563613bb78fc6888f81f8a42fc19f7dab4646",
+        "size": 26204
+      },
+      "dist/assets/index-CNaUc2eq.js": {
+        "sha256": "0c62e4c19db780d6fd712298bb137a5cc52a3afed3150eddc3badfeb3c2ad7a0",
+        "size": 449694
+      },
+      "dist/assets/index-CxYynEPj.css": {
+        "sha256": "82572ff5ca311b4fbff960f78c4462ad2b93f1d626924ab0afa5bc4d34b8ff73",
+        "size": 35112
+      },
+      "dist/assets/index-BF3xgpXP.css": {
+        "sha256": "ab60dc6e164201a7d3407a21787782eda5e84d65d4cdbbe563afde396551b5c6",
+        "size": 33191
+      },
+      "dist/assets/index-CrNHMjP-.css": {
+        "sha256": "9caee085998f165dd3408f61c998d791ca4a126a0d1717546eee5f24d4fe6036",
+        "size": 37380
+      },
+      "dist/assets/index--8aZUPbW.js": {
+        "sha256": "3c4773a58f9ee92f1fc20398f91e7fa8e9b5257d0759123f9a7625a61a409553",
+        "size": 414164
+      },
+      "dist/assets/index-CNqRJhmM.js": {
+        "sha256": "0b474b0de2f7f67733f999e0610fe3e1198ebeb72ded604007726b8f9030a224",
+        "size": 435275
+      },
+      "dist/assets/index-BAm_a7b4.js": {
+        "sha256": "4c263d94cfbdeb944208012d5b19a8d771e4859030ba3c71eef7022e5b607388",
+        "size": 436397
+      },
+      "dist/assets/index-BdJfEuHO.js": {
+        "sha256": "91e995947b0ff8f8fc1ecbfa8019e04f84c0e127f0644bd29bcb33300cd2f365",
+        "size": 416578
+      },
+      "dist/assets/index-4bjLw1FJ.js": {
+        "sha256": "2dc329cc57013e967ea3cf7825db05bd7d891699a427220803ab553a9b833776",
+        "size": 435301
+      },
+      "dist/assets/index-CqsD08Vf.js": {
+        "sha256": "0291f70ed6ddc42a3b474bc3968b1a16615eeb96feddbad2041f75775573461d",
+        "size": 413733
+      },
+      "dist/assets/index-gQBoujbF.css": {
+        "sha256": "1b937607a1f3f5317c92962031cf8e2f24375be8c55b6b798646e48b357fb821",
+        "size": 20593
+      },
+      "dist/assets/index-9WKl2oMC.css": {
+        "sha256": "09b792e72fc3b9f4af0182f9d4bdfd223f2c1405cf0862f64491c9416278579e",
+        "size": 18892
+      },
+      "dist/assets/index-UOs_4wRm.js": {
+        "sha256": "196f3388a1bc6539b705f0ff08b51f4ee7a6f1f556aa52fc59eacb57e8eea80a",
+        "size": 416668
+      },
+      "dist/assets/index-CnWto-Iv.css": {
+        "sha256": "e1cd88f7e168653daec9006d7e3f205913aad93309d542ffe79a35817423c96e",
+        "size": 23143
+      },
+      "dist/assets/index-CwYUUrgl.css": {
+        "sha256": "6b5a2a09ed60e79afcd43ae4d76fc0b8832a34a869f283a60712fae47fc4856e",
+        "size": 33183
+      },
+      "dist/assets/index-B98lCGK3.css": {
+        "sha256": "2f5e41abc7dd3eaa40acecf780bc569f8c1393867e4bba519c99a46a2f4b2d95",
+        "size": 37077
+      },
+      "dist/assets/index-Cs0tzTOx.js": {
+        "sha256": "73f2e82aebb98c28f157301b25f5c041b454b50684370cf99e4bbbf7959635db",
+        "size": 436997
+      },
+      "dist/assets/index-BMWcu7bK.js": {
+        "sha256": "4966da9d705d2929e5ad3a86a6423a448ec9d64371b56ed75e30997bf2f505f4",
+        "size": 439236
+      },
+      "dist/assets/index-BfQcCopE.js": {
+        "sha256": "1ac6c5b59c0bed963c98708b1fa81e21d2db8205a33c09d765c2726f6e4ba40e",
+        "size": 416709
+      },
+      "dist/assets/index-DlK5CHPf.css": {
+        "sha256": "0a36c94a8722ed8ee782bae2b8ffc96087ca273c4e6027f54cd2c788c0762e03",
+        "size": 39203
+      },
+      "dist/assets/index-DUyHXwxJ.js": {
+        "sha256": "f059a2404bb42959ab38bb619372f87bdb2ff1c9f8128b87ae4d36355b509699",
+        "size": 437441
+      },
+      "dist/assets/index-RIPKGQoI.js": {
+        "sha256": "778e192cdc57e24072d44ef4793dc5a840d074e36034f5a8494623db267b3130",
+        "size": 436797
+      },
+      "dist/assets/index-DQYYa2xd.js": {
+        "sha256": "84c5cd9cccf4617b9a06b79fecad6a2112d61310c4187829abfa55454af6e33b",
+        "size": 424129
+      },
+      "dist/assets/index-CGFFPOTD.js": {
+        "sha256": "d20951c9498fe7ee5853eaef5eea13f96770779ec45411444c211cedb476e762",
+        "size": 421949
+      },
+      "dist/assets/index-bralP4E_.js": {
+        "sha256": "49fdc5c9659675c054080b745a6c6e12454a10a6dfdc820f9c2c8b7179cb5198",
+        "size": 435030
+      },
+      "dist/assets/index-s2HD4VpL.js": {
+        "sha256": "e2c13aed6e81d2be85b6eb98eaeda64ffa6b3ce7066205c000a9ffd4d39e3656",
+        "size": 439241
+      },
+      "dist/assets/index-DY2H3913.css": {
+        "sha256": "ea2e07f77fdf00e3c17b6720563b6a33c3807ed9f80d2aa2ca71391759cb090f",
+        "size": 19775
+      },
+      "dist/assets/index-86n5qa_2.js": {
+        "sha256": "ec51ee2eca903d250a8f0d97795941cbb39f62ed09181b37fccc944c9a0ab62f",
+        "size": 437263
+      },
+      "dist/assets/index-CieoXQAy.js": {
+        "sha256": "0b474b0de2f7f67733f999e0610fe3e1198ebeb72ded604007726b8f9030a224",
+        "size": 435275
+      },
+      "dist/assets/index-LPpBP2lA.js": {
+        "sha256": "4c96eb8d2de08ab03d558fb174a35c977fa9e65ecfb5bffe78b87e62b6dc6988",
+        "size": 427227
+      },
+      "dist/assets/index-3m-r_DWL.js": {
+        "sha256": "c22a259d8c034110cb99501d8f01ae8c1143fc767c8f8c921a00a9087be3e7a7",
+        "size": 437269
+      },
+      "dist/assets/index-DIMZa37y.css": {
+        "sha256": "9b74e1993f707ab2fdb841bb784f2c510a9a8f7d48b9fb9a7d81806c1f0daffa",
+        "size": 23099
+      },
+      "dist/assets/index-qiBkPdeZ.js": {
+        "sha256": "f2b8731b2c6e6eb658d401fcb8c73557475149030ac661c5b268844327529df8",
+        "size": 439744
+      },
+      "dist/assets/index-CMtqsLj6.css": {
+        "sha256": "499ecb36c8c680afdbed815b1e856df3bd844271f6194305c9e8b49c71f0ee40",
+        "size": 18487
+      },
+      "dist/brand/premium-star.json": {
+        "sha256": "b290120f41b011c503230bf9f7aa8047a6d2b808cce2ba1383b31e08972961be",
+        "size": 153481
+      },
+      ".cursor/rules/deployment.mdc": {
+        "sha256": "cab5d974faa31acdde74bff87961dd006521b7920a57a3f54b9be217603b1e2a",
+        "size": 265
+      },
+      "index.html": {
+        "sha256": "74b500a408a24c25511cc2a85212c29b04e534a93bfea308d1f1e98adb715233",
+        "size": 16883
+      },
+      "package.json": {
+        "sha256": "8879c596ad5fb2ef86be5447d97fcaf6c6cee0649d13fb16e073cba05f33e601",
+        "size": 574
+      },
+      "README.md": {
+        "sha256": "58f675af3609071f7e28f1951408e31abe58c872490796ba3edc680800ffa558",
+        "size": 14347
+      },
+      "AGENTS.md": {
+        "sha256": "1758df3b7a10f3454862d989a9548d094f20a2615be58f6b5a800364c393254f",
+        "size": 1318
+      }
+    }
+  },
+  "payload": {
+    "src/style.css": "d5cb5c0aef814048cb39ac5a4145b06633688e03cf3b40583aec97bda88e1fa0",
+    "server/curated-stickers.json": "0f120327ee6b2b86fb6a10f3e17ff06a29ae5a33218ca7ca877e9c37a4a40a70",
+    "README.md": "997689a0dcf674ed4b9876d7572490e4b511de92c71007d68dcfa1a5569522c1",
+    "dist/index.html": "c27dabd958b28ac37e0442ccf24556a5a97581e5c2cd4d0f7809e30075a21fcd",
+    "dist/favicon.svg": "584d0c35a5ba22c8801ec703670a3b31247c74836be64e5c6cec4c7f39d11aff",
+    "dist/assets/lottie_light.min-GIMZKKCl.js": "0a0438c8bc3f7a65d733a6cd8102cbadecca107c64045e9cf891e89672343b0a",
+    "dist/assets/index-DAhlXN5V.js": "0c62e4c19db780d6fd712298bb137a5cc52a3afed3150eddc3badfeb3c2ad7a0",
+    "dist/assets/index-Cr_CIDYo.css": "9e8793fedcbad9a07ac3e1595c175a706d68873f5f059ec3df31efe861d36702",
+    "dist/brand/premium-star.json": "b290120f41b011c503230bf9f7aa8047a6d2b808cce2ba1383b31e08972961be"
+  },
+  "tests": {
+    "files": [
+      "curated.test.mjs",
+      "stickers.test.mjs"
+    ],
+    "passed": 8,
+    "liveApiSetsChecked": 323
+  },
+  "catalog": {
+    "sets": 236,
+    "stickers": 6080,
+    "premium": 581,
+    "packs": {
+      "HotCherry": {
+        "total": 34,
+        "premium": 3
+      },
+      "UtyaD": {
+        "total": 27,
+        "premium": 2
+      },
+      "KangarooFighter": {
+        "total": 27,
+        "premium": 1
+      },
+      "Gadgets": {
+        "total": 26,
+        "premium": 1
+      },
+      "CatInHat": {
+        "total": 21,
+        "premium": 1
+      },
+      "WolfAlpha": {
+        "total": 28,
+        "premium": 3
+      },
+      "AmanitaPhalloides": {
+        "total": 28,
+        "premium": 3
+      },
+      "Ant_Eater": {
+        "total": 26,
+        "premium": 1
+      },
+      "ArcticFox": {
+        "total": 31,
+        "premium": 1
+      },
+      "Spaceman": {
+        "total": 26,
+        "premium": 1
+      },
+      "NeverOld": {
+        "total": 23,
+        "premium": 3
+      },
+      "BadCupid": {
+        "total": 23,
+        "premium": 3
+      },
+      "Banana": {
+        "total": 35,
+        "premium": 2
+      },
+      "BananaAnimated": {
+        "total": 27,
+        "premium": 2
+      },
+      "BananaFun": {
+        "total": 23,
+        "premium": 2
+      },
+      "Baphometh": {
+        "total": 21,
+        "premium": 1
+      },
+      "Batoshik": {
+        "total": 24,
+        "premium": 3
+      },
+      "BeefyEagle": {
+        "total": 17,
+        "premium": 2
+      },
+      "BettPage": {
+        "total": 27,
+        "premium": 2
+      },
+      "BirdOfParadise": {
+        "total": 27,
+        "premium": 2
+      },
+      "BobJellyfish": {
+        "total": 28,
+        "premium": 3
+      },
+      "Borzoi": {
+        "total": 38,
+        "premium": 3
+      },
+      "BoysClub": {
+        "total": 30,
+        "premium": 4
+      },
+      "BT21_BTS": {
+        "total": 27,
+        "premium": 2
+      },
+      "BuckyBecky": {
+        "total": 22,
+        "premium": 2
+      },
+      "Buddy_Bear": {
+        "total": 28,
+        "premium": 3
+      },
+      "BumbIebee": {
+        "total": 23,
+        "premium": 3
+      },
+      "AsianBunny": {
+        "total": 27,
+        "premium": 2
+      },
+      "CactusAndBalloon": {
+        "total": 27,
+        "premium": 2
+      },
+      "CaptainWhale": {
+        "total": 23,
+        "premium": 3
+      },
+      "ValentineCat": {
+        "total": 18,
+        "premium": 3
+      },
+      "Cat2O": {
+        "total": 30,
+        "premium": 3
+      },
+      "MrCat": {
+        "total": 26,
+        "premium": 5
+      },
+      "NyaChan": {
+        "total": 27,
+        "premium": 2
+      },
+      "ChappyBunny": {
+        "total": 33,
+        "premium": 3
+      },
+      "Cheese": {
+        "total": 21,
+        "premium": 1
+      },
+      "ChibiChan": {
+        "total": 38,
+        "premium": 3
+      },
+      "CatCatCat": {
+        "total": 24,
+        "premium": 4
+      },
+      "ChineseDragon": {
+        "total": 28,
+        "premium": 3
+      },
+      "JingleBellElf": {
+        "total": 21,
+        "premium": 1
+      },
+      "ChristmasTiger": {
+        "total": 23,
+        "premium": 3
+      },
+      "Memes": {
+        "total": 31,
+        "premium": 1
+      },
+      "CloudiaSheep": {
+        "total": 26,
+        "premium": 1
+      },
+      "ColoredCats": {
+        "total": 30,
+        "premium": 5
+      },
+      "ColorfulMessages": {
+        "total": 37,
+        "premium": 2
+      },
+      "CookieAndMilky": {
+        "total": 21,
+        "premium": 1
+      },
+      "coolguy": {
+        "total": 28,
+        "premium": 3
+      },
+      "LifeCorgi": {
+        "total": 33,
+        "premium": 3
+      },
+      "Cowboy": {
+        "total": 22,
+        "premium": 2
+      },
+      "CrazyFlower": {
+        "total": 33,
+        "premium": 3
+      },
+      "Gillman": {
+        "total": 21,
+        "premium": 1
+      },
+      "MrCroco": {
+        "total": 34,
+        "premium": 4
+      },
+      "AngryCrow": {
+        "total": 33,
+        "premium": 3
+      },
+      "FreakyPigeon": {
+        "total": 22,
+        "premium": 2
+      },
+      "Crocosaurus": {
+        "total": 30,
+        "premium": 5
+      },
+      "CupidKitty": {
+        "total": 25,
+        "premium": 5
+      },
+      "CuteNurse": {
+        "total": 17,
+        "premium": 2
+      },
+      "CutieMadeline": {
+        "total": 23,
+        "premium": 3
+      },
+      "Cyclops": {
+        "total": 27,
+        "premium": 2
+      },
+      "knightbraveheart": {
+        "total": 22,
+        "premium": 2
+      },
+      "DeadlyPack": {
+        "total": 24,
+        "premium": 3
+      },
+      "DeathNote": {
+        "total": 21,
+        "premium": 1
+      },
+      "DebraZebra": {
+        "total": 21,
+        "premium": 1
+      },
+      "Developer": {
+        "total": 26,
+        "premium": 1
+      },
+      "DinDino": {
+        "total": 23,
+        "premium": 3
+      },
+      "DisgruntledToad": {
+        "total": 33,
+        "premium": 3
+      },
+      "DolphinDolph": {
+        "total": 27,
+        "premium": 2
+      },
+      "DolphinJumpy": {
+        "total": 23,
+        "premium": 3
+      },
+      "Turtle": {
+        "total": 32,
+        "premium": 2
+      },
+      "DonutTheDog": {
+        "total": 31,
+        "premium": 3
+      },
+      "UtyaDuck": {
+        "total": 40,
+        "premium": 4
+      },
+      "WhiteRhino": {
+        "total": 27,
+        "premium": 2
+      },
+      "EggYolk": {
+        "total": 24,
+        "premium": 3
+      },
+      "JustElmo": {
+        "total": 23,
+        "premium": 3
+      },
+      "FangBat": {
+        "total": 26,
+        "premium": 1
+      },
+      "TrickyFox": {
+        "total": 19,
+        "premium": 4
+      },
+      "FluffyLoafer": {
+        "total": 21,
+        "premium": 1
+      },
+      "FoxyComrade": {
+        "total": 28,
+        "premium": 3
+      },
+      "FrankensteinMonster": {
+        "total": 17,
+        "premium": 2
+      },
+      "FroggoInLove": {
+        "total": 27,
+        "premium": 1
+      },
+      "Fromg": {
+        "total": 38,
+        "premium": 3
+      },
+      "FunkyGoose": {
+        "total": 41,
+        "premium": 6
+      },
+      "GamerGirL": {
+        "total": 22,
+        "premium": 2
+      },
+      "GhostHamster": {
+        "total": 22,
+        "premium": 2
+      },
+      "Butterfly": {
+        "total": 21,
+        "premium": 1
+      },
+      "Godzi": {
+        "total": 27,
+        "premium": 2
+      },
+      "SnappyCrab": {
+        "total": 27,
+        "premium": 1
+      },
+      "GreenBun": {
+        "total": 36,
+        "premium": 1
+      },
+      "GreenLezard": {
+        "total": 28,
+        "premium": 3
+      },
+      "MrCaterpillar": {
+        "total": 27,
+        "premium": 2
+      },
+      "PigeonGulya": {
+        "total": 33,
+        "premium": 3
+      },
+      "HalloUtya": {
+        "total": 27,
+        "premium": 2
+      },
+      "Hands4Friends": {
+        "total": 35,
+        "premium": 5
+      },
+      "HaoPup": {
+        "total": 33,
+        "premium": 3
+      },
+      "HarryGorilla": {
+        "total": 27,
+        "premium": 2
+      },
+      "TheFrenchie": {
+        "total": 31,
+        "premium": 1
+      },
+      "HeartyHearts": {
+        "total": 22,
+        "premium": 2
+      },
+      "Hedgehog": {
+        "total": 27,
+        "premium": 2
+      },
+      "Hedgehoge": {
+        "total": 26,
+        "premium": 1
+      },
+      "HeartBalloons": {
+        "total": 16,
+        "premium": 1
+      },
+      "HighFox": {
+        "total": 24,
+        "premium": 4
+      },
+      "HomeElectronics": {
+        "total": 29,
+        "premium": 4
+      },
+      "HoneyBadgerrr": {
+        "total": 22,
+        "premium": 2
+      },
+      "HumanOrgans": {
+        "total": 27,
+        "premium": 2
+      },
+      "IceMan": {
+        "total": 22,
+        "premium": 2
+      },
+      "MyLittleDevil": {
+        "total": 27,
+        "premium": 2
+      },
+      "InvaderZim": {
+        "total": 25,
+        "premium": 2
+      },
+      "ColorfulJelly": {
+        "total": 33,
+        "premium": 3
+      },
+      "JessicaRabbit": {
+        "total": 26,
+        "premium": 1
+      },
+      "JinxPowder": {
+        "total": 17,
+        "premium": 2
+      },
+      "JoBrownBear": {
+        "total": 26,
+        "premium": 1
+      },
+      "Joker": {
+        "total": 16,
+        "premium": 1
+      },
+      "JollySanta": {
+        "total": 23,
+        "premium": 3
+      },
+      "JudyAlvarez": {
+        "total": 22,
+        "premium": 2
+      },
+      "FatKing": {
+        "total": 21,
+        "premium": 1
+      },
+      "HDKolobok": {
+        "total": 27,
+        "premium": 2
+      },
+      "Kozita": {
+        "total": 28,
+        "premium": 3
+      },
+      "KoalaBear": {
+        "total": 27,
+        "premium": 2
+      },
+      "LadyCat": {
+        "total": 28,
+        "premium": 3
+      },
+      "LadyVampire": {
+        "total": 16,
+        "premium": 1
+      },
+      "Ladybug": {
+        "total": 27,
+        "premium": 2
+      },
+      "HeavensLamby": {
+        "total": 24,
+        "premium": 4
+      },
+      "Lamplover": {
+        "total": 27,
+        "premium": 2
+      },
+      "LeopoldTheLion": {
+        "total": 27,
+        "premium": 2
+      },
+      "LovelyPeachy": {
+        "total": 23,
+        "premium": 3
+      },
+      "LightningBug": {
+        "total": 30,
+        "premium": 5
+      },
+      "LilCifer": {
+        "total": 23,
+        "premium": 3
+      },
+      "LilPuppy": {
+        "total": 27,
+        "premium": 2
+      },
+      "Flame": {
+        "total": 24,
+        "premium": 4
+      },
+      "LiveFlowers": {
+        "total": 21,
+        "premium": 1
+      },
+      "LongGoose": {
+        "total": 33,
+        "premium": 3
+      },
+      "LoveBirds": {
+        "total": 21,
+        "premium": 1
+      },
+      "LoveHamsters": {
+        "total": 18,
+        "premium": 3
+      },
+      "GumLoveIs": {
+        "total": 17,
+        "premium": 2
+      },
+      "JayAndNana": {
+        "total": 22,
+        "premium": 2
+      },
+      "BadBadDog": {
+        "total": 29,
+        "premium": 4
+      },
+      "Lychee": {
+        "total": 28,
+        "premium": 3
+      },
+      "MagicMandrake": {
+        "total": 24,
+        "premium": 4
+      },
+      "Mamkin_Pumpkin": {
+        "total": 17,
+        "premium": 2
+      },
+      "MrMandarine": {
+        "total": 17,
+        "premium": 2
+      },
+      "PinkMarshmallow": {
+        "total": 23,
+        "premium": 2
+      },
+      "GrinchDog": {
+        "total": 22,
+        "premium": 2
+      },
+      "MemesWithCats": {
+        "total": 33,
+        "premium": 3
+      },
+      "MiaBunny": {
+        "total": 30,
+        "premium": 5
+      },
+      "Minions": {
+        "total": 27,
+        "premium": 2
+      },
+      "Miss_Bunny": {
+        "total": 17,
+        "premium": 2
+      },
+      "Mistress": {
+        "total": 33,
+        "premium": 2
+      },
+      "ModernDinosaur": {
+        "total": 32,
+        "premium": 2
+      },
+      "MonkeyPuppet": {
+        "total": 27,
+        "premium": 2
+      },
+      "MrGreene": {
+        "total": 27,
+        "premium": 2
+      },
+      "Meeseeks": {
+        "total": 23,
+        "premium": 3
+      },
+      "MisterPigeon": {
+        "total": 31,
+        "premium": 1
+      },
+      "MrAss": {
+        "total": 27,
+        "premium": 2
+      },
+      "Muffin": {
+        "total": 28,
+        "premium": 3
+      },
+      "MummyJackal": {
+        "total": 17,
+        "premium": 2
+      },
+      "Mushroom": {
+        "total": 30,
+        "premium": 5
+      },
+      "LoveStory": {
+        "total": 18,
+        "premium": 3
+      },
+      "NekoBell": {
+        "total": 27,
+        "premium": 2
+      },
+      "NekoWaifu": {
+        "total": 27,
+        "premium": 2
+      },
+      "NewYearTiger": {
+        "total": 22,
+        "premium": 2
+      },
+      "NickWallowPig": {
+        "total": 31,
+        "premium": 2
+      },
+      "Orangoutang": {
+        "total": 27,
+        "premium": 2
+      },
+      "Lizard": {
+        "total": 23,
+        "premium": 3
+      },
+      "OwledDidi": {
+        "total": 24,
+        "premium": 4
+      },
+      "MrPanda": {
+        "total": 18,
+        "premium": 3
+      },
+      "ToiletPaperBoy": {
+        "total": 22,
+        "premium": 2
+      },
+      "Penguinissimo": {
+        "total": 21,
+        "premium": 1
+      },
+      "MrPugDog": {
+        "total": 22,
+        "premium": 2
+      },
+      "MrSeal": {
+        "total": 27,
+        "premium": 2
+      },
+      "PoolFlamingo": {
+        "total": 27,
+        "premium": 2
+      },
+      "PremiumGifts": {
+        "total": 30,
+        "premium": 30
+      },
+      "Pretty2Friends": {
+        "total": 22,
+        "premium": 2
+      },
+      "FishPrometheus": {
+        "total": 29,
+        "premium": 3
+      },
+      "FishPuffer": {
+        "total": 28,
+        "premium": 3
+      },
+      "PumpkinCube": {
+        "total": 22,
+        "premium": 2
+      },
+      "PumpkinGhost": {
+        "total": 27,
+        "premium": 2
+      },
+      "Funny_Pumpkins": {
+        "total": 22,
+        "premium": 2
+      },
+      "Qwabbit": {
+        "total": 27,
+        "premium": 2
+      },
+      "r2dog2": {
+        "total": 27,
+        "premium": 2
+      },
+      "RaccoonyDays": {
+        "total": 23,
+        "premium": 3
+      },
+      "RedFox": {
+        "total": 28,
+        "premium": 2
+      },
+      "Red_Squirrel": {
+        "total": 29,
+        "premium": 3
+      },
+      "RickyPenguin": {
+        "total": 22,
+        "premium": 2
+      },
+      "RobinBird": {
+        "total": 27,
+        "premium": 2
+      },
+      "Rooster": {
+        "total": 27,
+        "premium": 2
+      },
+      "Rrredpanda": {
+        "total": 28,
+        "premium": 3
+      },
+      "SalchichaDog": {
+        "total": 22,
+        "premium": 2
+      },
+      "MrSandman": {
+        "total": 16,
+        "premium": 1
+      },
+      "Hohoho": {
+        "total": 17,
+        "premium": 2
+      },
+      "SantaGirlHNY": {
+        "total": 21,
+        "premium": 1
+      },
+      "TeddyBear": {
+        "total": 24,
+        "premium": 3
+      },
+      "Scream": {
+        "total": 28,
+        "premium": 3
+      },
+      "MrSeagull": {
+        "total": 29,
+        "premium": 3
+      },
+      "JapaneseShiba": {
+        "total": 29,
+        "premium": 4
+      },
+      "RedShibaInu": {
+        "total": 23,
+        "premium": 3
+      },
+      "ShinobiAssassin": {
+        "total": 28,
+        "premium": 3
+      },
+      "HuskySiberian": {
+        "total": 24,
+        "premium": 4
+      },
+      "Skull": {
+        "total": 29,
+        "premium": 3
+      },
+      "CatSkull": {
+        "total": 22,
+        "premium": 2
+      },
+      "SliceofPizza": {
+        "total": 21,
+        "premium": 1
+      },
+      "Slimer": {
+        "total": 22,
+        "premium": 2
+      },
+      "Snailhare": {
+        "total": 31,
+        "premium": 1
+      },
+      "SneakerChuck": {
+        "total": 21,
+        "premium": 1
+      },
+      "SnowballBoy": {
+        "total": 26,
+        "premium": 1
+      },
+      "Snowflake": {
+        "total": 27,
+        "premium": 2
+      },
+      "SpeedyElf": {
+        "total": 23,
+        "premium": 3
+      },
+      "SpottyGiraffe": {
+        "total": 27,
+        "premium": 2
+      },
+      "StealthMoon": {
+        "total": 31,
+        "premium": 1
+      },
+      "SteampunkJulia": {
+        "total": 28,
+        "premium": 1
+      },
+      "StinkyLove": {
+        "total": 22,
+        "premium": 2
+      },
+      "SunAndCloud": {
+        "total": 27,
+        "premium": 2
+      },
+      "SuperStar": {
+        "total": 28,
+        "premium": 3
+      },
+      "SushiCat": {
+        "total": 38,
+        "premium": 3
+      },
+      "SweetyStrawberry": {
+        "total": 30,
+        "premium": 4
+      },
+      "Tapir": {
+        "total": 17,
+        "premium": 2
+      },
+      "TendyTiger": {
+        "total": 29,
+        "premium": 4
+      },
+      "MrLittlePrince": {
+        "total": 22,
+        "premium": 2
+      },
+      "ThatIsWhatSheSaid": {
+        "total": 26,
+        "premium": 1
+      },
+      "TheRing": {
+        "total": 27,
+        "premium": 2
+      },
+      "TibetanFox": {
+        "total": 34,
+        "premium": 4
+      },
+      "TidyTieTom": {
+        "total": 23,
+        "premium": 2
+      },
+      "VeryTiredPerson": {
+        "total": 21,
+        "premium": 1
+      },
+      "Tomby": {
+        "total": 21,
+        "premium": 1
+      },
+      "TutterMouse": {
+        "total": 23,
+        "premium": 2
+      },
+      "TwisterDog": {
+        "total": 19,
+        "premium": 4
+      },
+      "WallyOwl": {
+        "total": 33,
+        "premium": 3
+      },
+      "SwampGirl": {
+        "total": 21,
+        "premium": 1
+      },
+      "WhiteWind": {
+        "total": 22,
+        "premium": 2
+      },
+      "wizard": {
+        "total": 31,
+        "premium": 1
+      },
+      "WorldArt": {
+        "total": 33,
+        "premium": 3
+      },
+      "YellowBoy": {
+        "total": 22,
+        "premium": 2
+      },
+      "YetiHolidays": {
+        "total": 26,
+        "premium": 1
+      },
+      "YokoChan": {
+        "total": 22,
+        "premium": 2
+      },
+      "ChristmasDogs": {
+        "total": 26,
+        "premium": 1
+      },
+      "Cucaracha": {
+        "total": 24,
+        "premium": 4
+      },
+      "ChkChrk": {
+        "total": 21,
+        "premium": 1
+      }
+    }
+  },
+  "preservedRemoteSource": [
+    "src/clipboard.js"
+  ],
+  "favoriteColor": "#ffd54a"
+}

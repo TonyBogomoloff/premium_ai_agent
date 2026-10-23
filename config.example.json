@@ -1,0 +1,11 @@
+{
+  "bot_token_premium_emoji_app": "",
+  "premium_ai_agent": {
+    "public_url": "",
+    "host": "127.0.0.1",
+    "port": 8787,
+    "emoji_sets": ["RestrictedEmoji", "RGBHearts"],
+    "sticker_sets": ["HotCherry", "UtyaD", "KangarooFighter"],
+    "polling": true
+  }
+}

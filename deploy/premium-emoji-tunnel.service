@@ -1,0 +1,14 @@
+[Unit]
+Description=HTTPS tunnel for Premium Emoji Agent
+After=network-online.target premium-emoji-agent.service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/cloudflared tunnel --config /home/tony/Desktop/_code/premium_ai_agent/deploy/cloudflared.yml run
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target

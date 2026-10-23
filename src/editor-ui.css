@@ -1,0 +1,13 @@
+/* An inactive formatting button stays unfilled, including touch's sticky hover. */
+.editor-toolbar .icon-button:not(.active),
+.editor-toolbar .icon-button:not(.active):hover{background:transparent}
+.editor-toolbar .icon-button.active{background:var(--chat-out);color:var(--chat-accent)}
+
+.editor-scroll-frame{position:relative;min-width:0}
+.editor-scroll-frame #editor-panel{scrollbar-width:none;overscroll-behavior:contain}
+.editor-scroll-frame #editor-panel::-webkit-scrollbar{display:none}
+.editor-scrollbar{position:absolute;top:4px;right:3px;bottom:4px;width:14px;touch-action:none;cursor:pointer;border-radius:8px;user-select:none}
+.editor-scrollbar::before{content:'';position:absolute;top:0;bottom:0;left:5px;right:5px;border-radius:8px;background:var(--accent-wash)}
+.editor-scrollbar>span{display:block;position:absolute;top:0;left:5px;width:4px;border-radius:8px;background:var(--scrollbar);pointer-events:auto;will-change:transform}
+.editor-scrollbar:hover>span,.editor-scrollbar.dragging>span{background:var(--chat-accent)}
+.editor-scrollbar:focus-visible{outline:2px solid var(--chat-accent);outline-offset:1px}

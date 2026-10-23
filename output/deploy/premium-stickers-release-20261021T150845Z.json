@@ -1,0 +1,55 @@
+{
+  "release": "premium-stickers-release-20261021T150845Z",
+  "tests": {
+    "files": [
+      "stickers.test.mjs",
+      "core.test.mjs",
+      "curated.test.mjs",
+      "history.test.mjs",
+      "destinations.test.mjs"
+    ],
+    "passed": 26,
+    "finalStickerRerunPassed": 7
+  },
+  "installed": [
+    "src/main.js",
+    "src/stickers.css",
+    "server/catalog.mjs",
+    "server/app.mjs",
+    "server/config.mjs",
+    "server/index.mjs",
+    "server/telegram.mjs",
+    "server/curated-stickers.json",
+    "tests/stickers.test.mjs",
+    "tests/browser-fixture.mjs",
+    "index.html",
+    "README.md",
+    "AGENTS.md",
+    ".cursor/rules/deployment.mdc",
+    "dist/assets/index-CNaUc2eq.js",
+    "dist/assets/index-DeqT1vcz.css",
+    "dist/index.html"
+  ],
+  "state": "verified",
+  "oldPid": "600885",
+  "startedAt": "2026-10-21T15:13:16.157565+00:00",
+  "catalog": {
+    "packs": 3,
+    "stickers": 88,
+    "premium": 6
+  },
+  "newPid": "1109329",
+  "finishedAt": "2026-10-21T15:13:21.117792+00:00",
+  "browser": {
+    "url": "https://premium-emoji.korobkoff.com",
+    "tabs": "emoji and sticker verified",
+    "premiumFilter": 6,
+    "consoleErrors": 0,
+    "screenshot": "output/ui/premium-stickers-production.png"
+  },
+  "deploymentNotes": [
+    "Production clipboard.js and style.css were preserved and used in the frontend build.",
+    "Local unpublished clipboard changes were not included.",
+    "No real outgoing Telegram messages were sent during verification."
+  ]
+}

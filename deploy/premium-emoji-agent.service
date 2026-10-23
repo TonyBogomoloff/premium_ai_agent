@@ -1,0 +1,20 @@
+[Unit]
+Description=Premium Emoji Agent Telegram Mini App
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/tony/Desktop/_code/premium_ai_agent
+Environment=NODE_ENV=production
+Environment=PREMIUM_CONFIG=/home/tony/Desktop/_code/config.json
+Environment=PREMIUM_DATA_DIR=/home/tony/Desktop/_code/premium_ai_agent/.data
+EnvironmentFile=/home/tony/Desktop/_code/premium_ai_agent/.env
+ExecStart=/home/tony/Desktop/_code/premium_ai_agent/.runtime/node-v24.22.0-linux-x64/bin/node server/index.mjs
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=10
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target

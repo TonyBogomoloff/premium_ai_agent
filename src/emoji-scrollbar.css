@@ -1,0 +1,12 @@
+.custom-scroll-frame{position:relative;min-width:0}
+.custom-scroll-frame>.custom-scroll-content{scrollbar-width:none;overflow-x:hidden;overscroll-behavior:contain}
+.custom-scroll-frame>.custom-scroll-content::-webkit-scrollbar{display:none}
+.custom-scrollbar{position:absolute;top:3px;bottom:9px;width:14px;touch-action:none;cursor:pointer;border-radius:8px;user-select:none}
+.custom-scrollbar::before{content:'';position:absolute;top:0;bottom:0;left:6px;width:3px;border-radius:8px;background:var(--accent-wash)}
+.custom-scrollbar>span{position:absolute;top:0;left:6px;width:3px;border-radius:8px;background:var(--scrollbar);will-change:transform}
+.custom-scrollbar:hover>span,.custom-scrollbar.dragging>span{background:var(--chat-accent)}
+.custom-scrollbar:focus-visible{outline:2px solid var(--chat-accent);outline-offset:-1px}
+.emoji-scroll-frame{padding-right:8px}
+.emoji-scrollbar{right:-6px}
+.conversation-scroll-frame{background:var(--chat-bg)}
+.conversation-scrollbar{top:8px;right:2px;bottom:8px}

@@ -1,0 +1,22 @@
+{
+  "name": "premium-ai-agent",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "start": "node server/index.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "bot:check": "node scripts/bot.mjs check",
+    "bot:setup": "node scripts/bot.mjs setup"
+  },
+  "dependencies": {
+    "@tiptap/core": "^3.0.0",
+    "@tiptap/starter-kit": "^3.0.0",
+    "lottie-web": "^5.13.0",
+    "lucide": "^0.468.0"
+  },
+  "devDependencies": { "vite": "^7.0.0" }
+}

@@ -1,0 +1,21 @@
+.catalog-kind-tabs{display:flex;gap:4px;padding:4px;margin:0 0 16px;background:var(--chat-bg);border:1px solid var(--line);border-radius:11px}
+.catalog-kind-tabs button{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:42px;background:transparent;border-radius:7px;font-size:13px;color:var(--muted)}
+.catalog-kind-tabs button[aria-selected="true"]{background:var(--chat-out);color:var(--chat-accent);font-weight:650}
+.catalog-kind-tabs svg{width:18px;height:18px}
+.premium-filter{display:flex;align-items:center;gap:8px;margin-top:12px;font-size:12px;color:var(--soft-text);cursor:pointer}
+.premium-filter input{accent-color:var(--chat-accent);width:16px;height:16px}
+.emoji-grid.sticker-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;max-height:390px}
+.sticker-grid .emoji-insert{padding:12px}
+.sticker-grid .emoji-insert .custom-emoji{width:100%;height:100%;min-height:56px;font-size:40px}
+.sticker-grid .emoji-insert[aria-pressed="true"]{box-shadow:inset 0 0 0 2px var(--chat-accent);background:var(--accent-wash)}
+.sticker-premium{position:absolute;bottom:4px;left:6px;color:#c3b0ff;font-size:14px;pointer-events:none;z-index:1;text-shadow:0 1px 3px var(--chat-bg)}
+.sticker-hint{color:var(--muted);font-size:11px;line-height:1.6;margin:12px 0 16px}
+.sticker-preview{display:flex;align-items:center;gap:12px;margin-bottom:12px;background:var(--chat-bg);border:1px solid var(--line);border-radius:10px;padding:10px}
+.sticker-preview>.custom-emoji{width:76px;height:76px;flex:none;font-size:40px}
+.sticker-preview>div{flex:1;min-width:0}
+.sticker-preview strong{font-size:12px;overflow-wrap:anywhere}
+.sticker-preview small{display:block;margin-top:6px;color:var(--muted);font-size:11px;line-height:1.5}
+.sticker-preview>button{background:none;font-size:24px;min-width:32px;min-height:36px}
+@media(hover:none){.emoji-star{opacity:1}}
+@media(max-width:650px){.app-shell:has(#sticker-preview:not([hidden])) .app-footer{padding-bottom:calc(230px + env(safe-area-inset-bottom))}.app-shell:has(#sticker-preview:not([hidden])) .toast{bottom:calc(215px + env(safe-area-inset-bottom))}}
+@media(max-width:380px){.emoji-grid.sticker-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
