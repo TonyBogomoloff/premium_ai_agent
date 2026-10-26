@@ -1,0 +1,122 @@
+[
+  {
+    "file": "emoji-0.json",
+    "url": "/api/emoji/5372954454653933911",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-1.json",
+    "url": "/api/emoji/5370601486885591701",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-2.json",
+    "url": "/api/emoji/5373330410321223066",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-3.json",
+    "url": "/api/emoji/5373329319399529171",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-4.json",
+    "url": "/api/emoji/5372881676433105377",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-5.json",
+    "url": "/api/emoji/5371007876691138460",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-6.json",
+    "url": "/api/emoji/5373015670822804395",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-7.json",
+    "url": "/api/emoji/5370953476635368811",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-8.json",
+    "url": "/api/emoji/5370712413005945913",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-9.json",
+    "url": "/api/emoji/5370959021438146805",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-10.json",
+    "url": "/api/emoji/5371037748188683677",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-11.json",
+    "url": "/api/emoji/5370738629486319646",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-12.json",
+    "url": "/api/emoji/5370947515220761242",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-13.json",
+    "url": "/api/emoji/5371073319107827779",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-14.json",
+    "url": "/api/emoji/5373179691328871991",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-15.json",
+    "url": "/api/emoji/5373101475679443553",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-16.json",
+    "url": "/api/emoji/5370699111492229743",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "emoji-17.json",
+    "url": "/api/emoji/5372886001465170842",
+    "pack": "RestrictedEmoji"
+  },
+  {
+    "file": "sticker-0.json",
+    "url": "/api/sticker/8c15d3e55be2d0db20df8eb78ba616b4c2d4bf33483bc624d09cc12f47baa4bd",
+    "pack": "HotCherry"
+  },
+  {
+    "file": "sticker-1.json",
+    "url": "/api/sticker/1d8ca94612f7ae7f5f4e98618d7301f2c6131b522a914710571fde00fe85d5d4",
+    "pack": "HotCherry"
+  },
+  {
+    "file": "sticker-2.json",
+    "url": "/api/sticker/33dfcda28884cc4901296ccd9c384a816328e2a6b389c46dd71777c3b25cc872",
+    "pack": "HotCherry"
+  },
+  {
+    "file": "sticker-3.json",
+    "url": "/api/sticker/287d70bc9b5a8bc02325e9874eb6b73346011e4f78b8c8b51ca82ea8849d0a71",
+    "pack": "HotCherry"
+  },
+  {
+    "file": "sticker-4.json",
+    "url": "/api/sticker/fc277c1ac3438e930775212f43d58629ea5ace0afca8c6b25ab4206cb96af904",
+    "pack": "HotCherry"
+  },
+  {
+    "file": "sticker-5.json",
+    "url": "/api/sticker/4e972e4d192983cc2c649e2e98a7fdf2a8978fce52eff1bc3016602b228e7d9e",
+    "pack": "HotCherry"
+  }
+]

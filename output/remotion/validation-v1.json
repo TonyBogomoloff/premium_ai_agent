@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 30,
+  "width": 720,
+  "height": 1280,
+  "fps": 30,
+  "frames": 900,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio": false,
+  "decode_ok": true,
+  "bytes": 1647894,
+  "sha256": "59620bacbb79c3c5b8eea6a039c629759aaf3c182dbf55ba90e5b89f5432b2b7"
+}
